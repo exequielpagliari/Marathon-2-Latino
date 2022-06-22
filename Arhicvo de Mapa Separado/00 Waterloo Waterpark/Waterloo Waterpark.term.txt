@@ -1,0 +1,58 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C2<CMND PRAMA $C6&49c2$C2>$C0
+#PICT 10001
+Bienvenido.
+
+Te he despertado del estasis y teletransportado a un planeta donde necesito que termines unos trabajos. Te encuentras en Lh'owon, el planeta natal de los S'pht.
+
+Estoy seguro que estarás maravillado por saber que ocurrió mientras estuviste fuera por tanto tiempo, que ocurrió con $IMarathon$i y Tau Ceti, y sobre todo dónde está tu Lanzamisiles y tu Pistola de Fusión. Habrá tiempo para explicaciones después.
+
+Necesito que obtengas acceso a la red computacional del Pfhor de este planeta. Tu misión es conectar dos circuitos Uplink en diferentes ubicaciones dentro del complejo.
+
+Ten cuidado, estoy seguro que ya reconociste algunos de nuestros viejos amigos.
+#PICT 10002
+En el mapa de la izquierda he marcado los lugares donde deberás instalar los circuitos Uplink. Cuando te encuentres en el lugar yo te teletransportaré cada uno de los circuitos.
+
+Tu traje a sido modificado para que pueda recargarse con las estaciones de energía Pfhor, y utilicé los enlaces enemigos para conectarte a la red de mi nave, para almacenar tus datos.
+
+Encontrarás poca resistencia organizada ya que el Pfhor se encuentra preocupado.
+
+Estuve introduciéndolos en la $IMagia$i del bombardeo orbital.
+#LOGOFF 1600
+$C2<CMND PRAMA $C6&49c2$C2>$C0
+#END
+#FINISHED
+#LOGON 1600
+$C2<CMND PRAMA $C6&681g1$C2>$C0
+#PICT 10003
+Diesiciete años an pasado desde que la colonia en Tau Ceti fue atacada y tu me ayudaste a capturar la nave exploradora Pfhor. Los S'pth que hemos liberado durante la batalla se han unido, y juntos hemos buscando su mundo en el centro de la galaxia, llamado Lh'owon.
+
+Finalmente lo hemos encontrado hace sólo diecises horas, y estamos buscando algo, un arma o conocimiento que nos sirva para frenar la conquista del Phfor através de la galaxia.
+
+Hace un millón de años atrás, Lh'owon fue casi destruido durante las guerras donde los S'pht fueron esclavizados. Es apropiado que debamos regresar aquí para buscar una herramienta para usar contra ellos.
+#LOGOFF 1600
+$C2<CMND PRAMA $C6&681g1$C2>$C0
+#INTERLEVEL TELEPORT 1
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1602
+$C2ehhg.431.4122//<PFGR ZNE6 $C6&49c2$C2>$C0
+#PICT 10011
+$C4/-/$C7$BPfhor$C4-$Traductor-$C7Activado$b$C4/-/
+
+$C2Sistema de agua descompuesto en zona 6:
+
+$BDirectiva del Comando de Guarnición$b//$C6Hlford$C2
+Para: Commandante de la Estación $C66-d$C2
+
+Un bombardeo planetario desde orbita con una nave nuestra $C7(?capturada)$C2 ha hecho grabes daños al sistema de purifiación $C7(?esterilización)$C2 de agua.
+
+Enviar Drones $C694126 95239 29581$C2 para reparaciones de emergencia.
+#LOGOFF 1602
+$C2ehhg.431.4122//<PFGR ZNE6 $C6&49c2$C2>$C0
+#ENDTERMINAL 1

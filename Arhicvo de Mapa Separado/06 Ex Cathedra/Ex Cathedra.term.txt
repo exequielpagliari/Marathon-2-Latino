@@ -1,0 +1,46 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C2X-nil 37.9@cjl1//$C6vck3$C0
+#PICT 10602
+
+
+
+$C2X-nil 37.9@cjl1//$C6vck3$C0
+
+He descubierto un area donde las líneas de comunicación del Pfhor están espuestas y programé un virus que ataca el programa defensivo a través de esta debildad. El ataque estará dirigido a subvertir las sondas de defensa del Pfhor, que son controladas remotamente por una computadora central, y ponerlas contra el Pfhor. 
+
+Esta zona es utilizada por el Pfhor como un templo de su religión patéticamente aburrida. Tal vez piensan que la santidad lo protegerá.
+#PICT 10601
+
+$C2X-nil 37.9@cjl1//$C6vck3$C0
+
+Teleportaré el paquete con el virus al altar principal del templo. Recuperarás el instrumento de su extinción de allí y lo insertarás en el panel de control sumergido que he marcado en el mapa a la izquierda.
+
+Al llegar, el Pfhor probablemente cerrará las puertas al templo. Debes ser capaz de abrirlos mediante la destrucción de su fuente de alimentación, que se encuentra tras una puerta en una gruta cercana. Probablemente tendrás que hacer algo de natación para llegar allí.
+
+Mi virus no es muy selectivo, y probablemente deshabilitará este terminal poco después de instalarlo. Hay otra terminal en el templo; Voy a tratar de contactarte por allí.
+#LOGOFF 1600
+$C2X-nil 37.9@cjl1//$C6vck3$C0
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+$C2e.thra $C63-cab<783.7*78>$C0
+#PICT 1604
+
+
+
+
+
+
+
+El virus está funcionando como estaba planeado y he asumido con éxito el control de las sondas de defensa de Pfhor. Los Drones enloquecidos están causando gran pánico entre los defensa restantes del Pfhor.
+
+Debemos presionar el ataque antes de que se recuperen.
+#LOGOFF 1600
+$C2e.thra $C63-cab<783.7*78>$C0
+#INTERLEVEL TELEPORT 7
+#ENDTERMINAL 1

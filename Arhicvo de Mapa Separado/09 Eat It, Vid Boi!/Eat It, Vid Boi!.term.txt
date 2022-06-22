@@ -1,0 +1,139 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
+#PICT 10901
+
+
+
+Te he transportado a la Ciudadela de la Antigüedad de los S'pht. La torre primaria es inaccesible por teletransporte directo, evidentemente porque algunas de las defensas de la Ciudadela siguen funcionando.
+
+Esta antigua ciudadela fue el sitio de la batalla concluyente en la corta guerra entre el S'pht y el Pfhor.
+
+Encontrar una forma de entrar en la torre primaria será difícil porque la entrada de la planta baja está trabada y bloqueada por un foso. Tendrás que superar ambos obstáculos para conseguir entrar.
+#LOGOFF 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
+#END
+#FINISHED
+#LOGON 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
+#PICT 1604
+
+
+
+
+
+$C5<Pragma Junction ^7921 Engaged>$C0
+
+Si insistes en tropezar cuando nuestro tiempo aquí es limitado, puedo decidir simplemente que no eres tan especial después de todo y te teletransportaré hacia el espacio.
+
+$B¡ENTRA EN LA TORRE!$b
+
+Todavía Rampante,
+Durandal
+#LOGOFF 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1601
+$C5<Mnr *@1cz: 9cm2>
+#PICT 10911
+$C4/-/$C7$BS’pht$C4-$C7Traductor$C4-$C7Activado$b$C4/-/
+
+$C5Una vez que el S'pht luchó en un combate brutal, cuando el odio quemó los tejidos de uno de sus enemigos, un clan, el S'pht'Kr, recluido y solitario, abandonó Lh'owon.
+
+El clan salió y subió, deteniéndose en K'lia la luna de tercera hermana luna de Lh'owon, para construir un nuevo hogar, libre de sus hermanos en guerra.
+
+Por mil y una órbitas, el clan fue olvidado, un recuerdo perdido sobre el humo del campo de batalla, hasta que el todopoderoso Yrro envió a K'lia hacia las estrellas.
+$C0
+#LOGOFF 1601
+$C5<Mnr *@1cz: 9cm2>
+#END
+
+#FINISHED
+#LOGON 1601
+$C5<Mnr *@1cz: 9cm2>$C0
+#PICT 10912
+$C4/-/$C7$BS’pht$C4-$C7Traductor$C4-$C7Activado$b$C4/-/
+
+$C5Los fuegos ardían y los pantanos de las aldeas occidentales se convertían en ceniza, quemando el agua.
+
+Los ataques fueron implacables y crueles, no se dejó S’pht vivo $C7[? Coherent]$5.
+
+Así comenzó la larga guerra entre los S'pht'Mnr y los S'pht'Lhar.
+#PICT 10913
+$C4/-/$C7$BS’pht$C4-$C7Traductor$C4-$C7Activado$b$C4/-/
+
+$C5Después de las guerras de los pantanos entre S'pht'Lhar y S'pht'Mnr dejaron los campos de batalla atestados de muertos, el pantano se volvió un cementerio.
+
+Más arriba, K'lia se negó a ver la masacre sobre Lh'owon.
+
+Ella huyó hasta el extremo más alejado, dejando el pantano sagrado seco de las mareas que se iban.
+
+Cuando el agua retrocedió, la arena roja de los muertos se extendió por Lh'owon.
+#LOGOFF 1601
+$C5<Mnr *@1cz: 9cm2>$C0
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#FINISHED
+#LOGON 1600
+$C5<Trn 36 ap&1cz:: 9cm2>$C0
+#PICT 11001
+Con la llegada inminente de la flota de Pfhor, los humanos y mis S'pht han comenzado a mejorar las defensas de su cuartel general. Incluso si tengo que abandonarlos, podrán aguantar por mucho tiempo.
+
+Voy a teletransportarte a los niveles más altos de la Ciudadela. Con suerte, podemos encontrar información útil en la parte superior. Debemos determinar qué pasó con el undécimo clan S'pht.
+#LOGOFF 1600
+$C5<Trn 36 ap&1cz:: 9cm2>$C0
+#INTERLEVEL TELEPORT 10
+#END
+
+#UNFINISHED
+#LOGON 1600
+$C5<Trn 36 ap&1cz:: 9cm2>
+#PICT 1601
+$C5Los tramposos no ganan,
+y los ganadores realmente no engañan,
+A menos que estés hablando de política.$C0
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
+#PICT 1604
+
+
+
+
+
+$C5<Pragma Junction ^7921 Engaged>$C0
+
+Pronto tendremos visitantes. El Brazo Occidental del Séptimo Grupo de Batalla Pfhor está en ruta y debería estar aquí en unas veinte horas.
+
+El Séptimo Grupo de Batalla representa más del diez por ciento de la fuerza naval activa del Pfhor. Dudo que yo pueda retenerlos con una sola nave, pero lo intentaré.
+#LOGOFF 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
+#END
+
+#FINISHED
+#LOGON 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
+#PICT 1604
+
+
+
+
+
+
+$C5<Pragma Junction ^7921 Engaged>$C0
+
+Deja de tontear. ¿No te dije que una porción significativa de la marina galáctica cercana más fuerte se dirige en esta dirección?
+
+$B¡VUELVE A LA TORRE!$b
+#LOGOFF 1600
+$C5<Pragma Junction ^7921 Engaged>$C0
+#ENDTERMINAL 3

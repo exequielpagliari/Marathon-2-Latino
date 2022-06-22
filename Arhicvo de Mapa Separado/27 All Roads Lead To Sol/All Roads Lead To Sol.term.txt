@@ -1,0 +1,108 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+evac$C3<9fc3e>94!99c>$C0
+#PICT 1604
+
+
+
+
+
+
+
+La invasión Pfhor de Sol ha sido llamada y por ahora la Tierra está segura. Pero el respiro del hombre de la guerra significa otra batalla cataclísmica para los S'pht.  Los esclavizadores no habían sufrido una derrota como la que les servimos hoy desde que los Nakh, la última raza cliente existente de los Jjaro, se rebeló hace seis mil años atrás. 
+#PICT 12701
+Los Pfhor tienen un arma que guardan para las revueltas de esclavos; un arma que incluso dudan usar cuando están en guerra. En el lenguaje Jjaro, quien diseñó y construyó el dispositivo, es llamado el $Itrih xeem;$i una traducción justa al español sería "nova prematura".
+
+No hay un sólo Nakh vivo hoy en día, y si buscas sus estrellas, sólo encontrarás nubes de gas súper-calentado y polvo por siempre en expansión en años luz a la redonda. 
+
+La evacuación de Lh'owon ya ha comenzado. En cuestión de horas este planeta será una delgada capa de plasma, montada en la onda expansiva de su estrella explotando. 
+
+Puedes quedarte atrás para trabajar en tu bronceado, si gustas, pero yo me iré. 
+#PICT 12702
+He rebautizado el $IKhfiva$i como el $IRozinante$i.  Por supuesto, los S’pht querían llamarlo $IK’liah’Narhl,$i “La Venganza de K’lia.”
+
+Como sea. 
+
+Hay bastante por hacer en los meses siguientes y nuestra primera parada será otro mundo en ruinas, esta vez bastante lejos del núcleo galáctico. Ahí hay una estrella rebelde que ha estado pasando a través de nuestra galaxia por casi un milenio. 
+
+La encontraremos en uno de los grandes vacíos entre los brazos de espiral.
+#LOGOFF 1600
+en trance.Final$C3<0-05>$C0
+#INTERLEVEL TELEPORT 256
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1613
+
+#PICT 10701
+$C2"Al demonio", gritó Robert - su personalidad superficial de Súper Buen Samaritano, se disolvía en una piscina de odio rojo opaco coronado por una bola de ira candente..  "¡Mi fe en ti finalmente me ha matado!"  Y era cierto, en ese preciso momento su corazón dejó de latir y su cerebro, palpitando de ira y disgusto, tomó el mando.  Vomitó toda la bondad que podía caber en su boca en una erupción cataclísmica de quince segundos, dejando solamente repulsión y desesperación.  A pesar de poseer una estructura poderosa (estando constituido principalmente de carne de caballo y arrabio), sus huesos parecían débiles a comparación de su recién encontrado deseo de matar. Y él mataría, montones de muertos se acumularían bajo sus pies. Y el diría, "...¡fue un caso de defensa propia post-mortem!"
+#PICT 10201
+$C5Me gustaría agradecer a toda mi familia y amigos por el apoyo que me han dado. También me gustaría agradecer a todos mis compañeros de trabajo en Bungie (Ωµ∑˙®¨œ∆ø˜ø∆) ¡por hacer de ésta la más genial en la cual jugar!
+
+"Si disfrutas tu trabajo, no trabajarás un día de tu vida"
+
+  //////////////
+//              //
+//   //   //    //
+//              //
+//  //      //  //
+//    /////     //
+//              //
+  //////////////
+
+Mark.
+#PICT 11041
+Ouch!
+
+De cualquier modo, hay un cierto número de personas a las cuales me gustaría agradecer, pero ellos saben quienes son. Si no estás seguro, entonces no es a ti.
+
+Pero todas esas cosas son aburridas. Lo que realmente quiero decir es nada, pero no puedo hacer eso, ¿o sí? Incluso una página vacía diría algo. Maldición. Tal vez algo ligeramente irrelevante servirá como la nada, así que, aquí va:
+
+“La tierra es el único planeta del sistema solar que se sabe tiene grandes cantidades de agua gratis”
+	-Pasos básicos en astronomía
+
+El vidding es lo máximo.  No puedo esperar para patearles el trasero en MacWorld.
+-Greg K, Toolator, Vid Boi, VidMaster, Tool, Head Tool
+#PICT 10801
+$C5   “Jesús, y ni siquiera tuve que hacer un nivel…"
+
+   Aquí es para juegos cooperativos en red, terminales, y Vulcan2.  Heh.
+
+   Gracias a todos los que me soportaron mientras trabajaba en esto.  Especialmente a Nicole por entender las largas horas y veranos en Chicago.  Ahora sólo tengo que graduarme en diciembre…
+
+   Gracias a la Banda (Jake, John, Pagan, Adam, y Mike) por mantenerme cuedo.
+
+   Y por supuesto, gracias a mis padres por entender cuando su hijo se va a las minas de código de Moria por meses mientras trabaja en $IMarathon$i & $IMarathon 2.$i
+
+   Nosotros mandamos. [We Rule].
+   -Ryan
+#PICT 11102
+Un Nar sabio dijo una vez “Un Nebulon bajo el pie vale dos detrás de un cañón de plasma,” pero los Nar siguen esperando a su mítico salvador de orín verde para que vuele sus carros de batalla interestelares operados por carbón hacia la gloria contra los Nebulons.  Esos son Nebulons bajo el pie de Tfear, por cierto. Parece que a nadie le gustan los Nebulons.
+
+Si alguna vez tengo que volver a mapear las texturas de un polígono alineado al eje, será muy pronto. realmente siento mucho ser Blake, y espero que $IAll Roads Lead To Sol$i expíe el grave pecado de $IColony Ship For Sale$i.
+
+Los Nar, quienes hablan totalmente con metáforas, llaman a Chicago “el cielo ilimitado que no perdona; la prisión que siempre vigilará nuestras tumbas” en el invierno.  Qué mal que es invierno.
+
+Jason              Sunday, November 5, 1995
+#PICT 10502
+$C5Algunas personas no se han dado cuenta de que no sólo proveí las voces y gritos de los Bobs, sino que también modelé para los artistas mientras trabajaban en los asimilados. Al igual que ellos, tengo dos pies, ojos rojos, dientes horribles y no genitales. 
+
+Me daba un poco de pena al principio (¡puedes imaginarte las bromas!), pero todo es parte del espíritu de Bungie de hacer todo lo posible para satisfacer al cliente. 
+
+Así que la próxima vez que estés en una convención con nosotros, en vez de pedirme que haga el grito de muerte en llamas de Bob por enésima vez, pide ver... mis ojos. Todos nos reiremos un buen rato. 
+
+Doug.
+#PICT 12601
+$C2Paz, encontrada como un corredor solitario en un camino recto y largo.  Viviendo el dolor, sin esperar a que pase.  Viviendo el dolor; sintiéndolo, aceptándolo, usándolo.  
+
+Control, sobre uno mismo, pensamiento, acción. Hacer lo correcto. Decir la verdad. Aceptando ningún límite.
+
+Paz con la familia encontrada como un individuo. Dependiendo no más en el ambiente por una identidad. Dando tanto como tomando. Amor y propósito balanceados.
+
+Alex.
+#LOGOFF 1613
+
+#ENDTERMINAL 1

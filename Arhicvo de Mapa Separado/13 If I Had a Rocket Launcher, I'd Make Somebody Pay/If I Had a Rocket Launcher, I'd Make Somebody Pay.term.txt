@@ -1,0 +1,58 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1603
+R4-interrupcion $B032-cm$b
+#PICT 11301
+La primera nave de descenso Pfhor aterrizó hace doce minutos, sus tropas ya han penetrado el caso.  Parece que nuestros procedimientos de operación estándar me dicen que te transporte en la peor pelea. Tal vez tú puedas retrasarlos.
+
+It may only seem like a matter of hours since your last battle hePuede que parezcan unas cuantas horas desde tu última batalla aquí, pero recuerda que diecisiete años han pasado para aquellos que no nos pasamos el viaje desde Tau Ceti en una cámara de estásis. Unas cuantas cosas han cambiado:
+
+Estamos varados irremediablemente en la segunda luna de Lh'owon. Nuestros motores han sido destruidos y todas las armas primarias están fuera de línea. El soporte vital ha fallado en la mayoría de las áreas.
+
+Diviértete. 
+#LOGOFF 1603
+R4-interrupcion $B032-cm$b
+#INTRALEVEL TELEPORT 25
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1605
+       $C2<40c$B<40c>$b $C648c<48c>$C0
+#PICT 1611
+
+
+
+
+
+
+La ruina de $C6Durandal$C2 está escrita por doquier; esta nave condenada lo grita.  La infiltración de las redes de tu nave ha comenzado y las siguientes cuatro naves de descenso acaban de llegar.
+
+$C6Durandal$C2 será muy obstinado para ver la verdad, pero tu todavía podrías.  No hay nada que tú o él puedan hacer para salvarse o a los humanos que han traído aquí.
+#LOGOFF 1605
+      $C6<40c$B<40c>$b $C248c<48c>$C0
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1603
+$C3<redirigiendo>$C0 &49e 94f9c4
+#PICT 1610
+
+                       $C2gnc32<$C6o84ce>t$C0 <>
+
+             8
+
+Has hecho bien, pero todos los defensores humanos cerca del casco han sido redirigidos; debes retroceder.
+
+Los humanos han fortificado el interior de la nave, cerca del arreglo de teletransportes. Trataré de evacuar a tantos S'pht y humanos hacia el planeta como pueda.
+
+Debes contener a los Pfhor el mayor tiempo posible.
+
+
+                  13[
+#LOGOFF 1603
+$C3<redirigiendo>$C0 &49e 94f9c4
+#INTERLEVEL TELEPORT 14
+#ENDTERMINAL 2

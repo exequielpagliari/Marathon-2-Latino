@@ -1,0 +1,96 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1607
+teilhard$C3//004121.25.1$C0
+#PICT 11811
+$BMENSAJE GRABADO$b $C3<03.02.2250414>$C0
+
+Los Pfhor han rastreado nuestras comunicaciones y nuestra base está bajo ataque por sus esclavos cyborg que son inmunes al antiguo virus S'pht. Nos estamos retirando más hacia las profundidades.
+
+Durandal sugirió antes de su destrucción que habían dos sitios de activación más aquí. Nadie sabe con seguridad lo que pasará cuando Thoth sea activado, pero si no nos ayuda estaremos condenados y tú atrapado aquí. 
+
+Nuevamente, buena suerte. Eres nuestra única esperanza.
+
+$BFIN DE MENSAJE GRABADO$b
+#LOGOFF 1607
+teilhard$C3//004121.25.1$C0
+#END
+#FINISHED
+#LOGON 1607
+ugv0-i6tc$Ik[24 2h26u njk$i==$Btp12t1$b
+#PICT 12101
+hesid}ro$C3ldanbeowulfaquiledgilgames$C0h
+sidollamadoun[entenardenombresyserellamadou
+nmillarmásantesdequeelmundosevuelvaoscuroyfriosoy
+%heroe$C3ellanohate~idonombredesdenuestronac=miento
+unaconstanteadversariaquenoleimportamasquemiruinauna
+espadabañadaenmisangrepor%empremimasgrandey+nico
+amorellaeslaoscurLelenemigoy$C0amantesin
+quieZmiexistenciaseriapatéticayvulga
+rnuestrarelacionesc^mplicadayquizaseterna
+nosencontramosunavezeneljardinalcomienzodelmu
+ndoysinsa$C3bernuestrosdestinosgemeloscruzamosmir
+radasatravezde;secaylarecuerdosonrien>
+omeantesdedevorarlatierrayarbolesconunal
+$C0lamatranslucidayarrancaralaslozasdel
+'aminoylaslanzaraalcielogritandomispecados
+pulverizounmonumentodegranitoenunres;dor$C3sinsonido
+abañandoelpastoconlospedazosmolidosdesusincrustaciones
+doradasmandandopedazos$C0humeantesdepiedraa
+lanieblaellaparteunviejorobleconlaf/erzaque
+tomamihalientoymearroja$C3alsueloellasev%!$C0
+
+$BCONECCIÓN TERMINADA$b $C3<ID#0401>$C0
+#LOGOFF 1607
+gv0-i6tc$Ik[24 2h26u njk$i==$Btp12t1$b
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1608
+$C161ef$Ba 21Y$Ijm$iPM$bH& r f7(P$C0
+#PICT 1609
+$C1~
+                                   []
+
+^r                               /  !
+              x ~^
+                       j
+@W$Bno ed$b%UJIr     R$Blentam$b FYMHr &(P
+          $  !
+                                     /                       [0]
+        45 * !                               +_
+5                $Bovr erru$b   JSR$Btermina$bYr RK
+        4 !        ;’,’41!!           $Besperando$b
+                 EY$Bmileb
+3w4t                        g g WGJDN!!!K)(2             ~~fF~fx
+                4!@
+
+   ?!$                          .414.14       pnz.$C0$b
+#LOGOFF 1608
+$C1CI$BLCI$b@1C    0f1regresarpvcs!S$C0
+#END
+#FINISHED
+#LOGON 1608
+$C1NDfdescartado$B @%041/3$!1$b$C0
+#PICT 1609
+
+
+
+
+
+
+
+
+$C1$BTus humanos están cerca de $b[?morir],$B
+pero por, de tu muerto constructo, 
+     los transportadores
+a $b[?salvar]$B a ellos te mandaré;
+
+mientras busco $b[?percepcion]$B de este
+     nuevo mundo.$C0$b
+#LOGOFF 1608
+$C1mi41$Bnor$b 7*(^tfg$C0
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 1

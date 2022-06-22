@@ -1,0 +1,67 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1603
+CONSTRUCTOS DE PERSONALIDAD EN BUSCA DE CYBORGS
+#PICT 12401
+$BPRESUMIDO INTELECTUAL.$b IA programada por humanos, alguna vez rampante con sentido del humor busca bípedo respira oxígeno para relación seria en el núcleo galáctico. Tengo armas si te gusta romper cosas.  No yuppies.  $C3MRa2572 (5/23).$C0
+
+$BBELLA DURMIENTE.$b  Constructo de personalidad desactivado hace mucho en búsqueda de un cyborg crédulo basado en carbono (<20% máquina) para confundir, irritar y teletransportar al azar en un planeta desértico abandonado en el núcleo.  Todo contestado.  $C3MRa2688 (5/30).$C0
+
+$BEL REGALO DE DIOS A LAS REDES NEURONALES.$b  IA humana reprogramada, traidora, extremadamente rampante y sin sentido del humor busca  elusivo y heroico cyborg de confección desconocida (tú sabes quién eres) para juegos mentales y largas caminatas en vacío absoluto.  $C3MRa2261 (5/16)$C0
+
+$BDAMISELA EN APUROS.$b  IA de programación humana, capturada y parcialmente desensamblada atrapada en planeta natal alienígena busca auxilio de un alto, oscuro y apuesto cyborg con armas grandes. Que mi rescate sea la base de una relación duradera.  $C3MRa4451 (5/23).$C0
+#LOGOFF 1603
+CONSTRUCTOS DE PERSONALIDAD EN BUSCA DE CYBORGS
+#INTRALEVEL TELEPORT 92
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1602
+$C2FENC.191.7450//<CCOE1 S26 $C6&563BC$C2>$C0
+#PICT 1612
+$C4/-/$C7$BTraductor$C4-$C7Pfhor$C4-$C7Activo$b$C4/-/
+
+
+
+$C2$B$UALERTA TODAS LAS ESTACIONES$u$b
+
+
+
+
+$BEl $IHfarl$i ha sido abordado.  $b
+
+
+Todo el personal debe localizarse $C7(?organizarse)$C2 alrededor del procedimiento de abordaje ocho. 
+
+
+El comando de la flota ha ordenado que el fallar al cumplir con el procedimiento resultará en máxima aplicación.
+$C7(?desmembramiento)$C2
+#LOGOFF 1602
+$C2FENC.191.7450//<CCOE1 S26 $C6&563BC$C2>$C0
+#END
+#FINISHED
+#LOGON 1608
+$C1Rh~fen $Bmata$b~@5,.4.1 también y$C0
+#PICT 1609
+
+
+
+
+
+
+$C1$BLa rueda humana es$b [?puede ser]
+$Buna metáfora para S’pht$b [?tiempo];
+
+(las circunstancias son cíclicas)$B
+
+El Undécimo Clan regresará.$b
+
+
+
+$BDebes ir a ellos.$b$C0
+#LOGOFF 1608
+$C1y del (0)!el imper%&$B(f~F`fx\$$bC0
+#INTERLEVEL TELEPORT 25
+#ENDTERMINAL 1

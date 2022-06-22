@@ -1,0 +1,53 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1607
+acropolis.piltdown$C3//004121.25.1$C0
+#PICT 11801
+Es un mal momento para presentarse, pero soy Robert Blake. Solía ser un ingeniero mécanico en Tau Ceti, pero ahora de algún modo soy el comandante de las fuerzas humanas restantes y los supervivientes S'pht en esta roca olvidada.
+
+Los Pfhor te mantuvieron prisionero por casi un mes antes de que fueramos capaces de descubrir tu ubicación y liberarte, desafortunadamente muy poco ha cambiado desde tu captura y la destrucción de Durandal.
+
+Me estoy comunicando contigo desde nuestra base en Lh'owon a través de la vieja red S'pht. A penas si nos sostenemos, casi una milla bajo la superficie. 
+#PICT 11801
+Hay un virus aquí abajo que mata Pfhor en cuestión de horas; nuestros S'pht dicen que fue creado via bio-ingeniería por sus ancestros durante la guerra contra los Pfhor hace mil años. Lo que sea; está salvando nuestros traseros.
+
+Las últimas instrucciones de Durandal fueron que reactivaramos una IA S'pht inactiva, confinada bajo la superficie y que sólo se puede alcanzar mediante teletransporte. Esperamos que tú venzas donde nosotros fallamos.
+
+Buena suerte.
+#LOGOFF 1607
+acropolis.piltdown$C3//004121.25.1$C0
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1607
+acropolis.piltdown$C3//004121.25.1$C0
+#PICT 11813
+Lo estás haciendo bien, pero no has activado todas las celdas de personalidad en ésta área. No hemos sido capaces de encontrar mapas de esta estructura para ayudarte, pero los interruptores de activación deben estar cerca.
+
+Durandal nos convenció de que esta vieja computadora es nuestro único enlace al clan perdido de los S'pht y que traerlos de regreso a luchar contra los Phor es nuestra única oportunidad de detener su invasión al sistema solar. 
+
+Nadie aquí quiere pensar en qué pasaría si los Pfhor llegasen a la Tierra.
+#LOGOFF 1607
+acropolis.piltdown$C3//004121.25.1$C0
+#END
+#FINISHED
+#LOGON 1607
+acropolis.piltdown$C3//004121.25.1$C0
+#PICT 11901
+Buen trabajo.
+
+Los S'pht han verificado la activación parcial de la IA. Los Pfhor ya tienen curiosidad sobre lo que estamos haciendo, pero una vez que se den cuenta de lo que hemos encontrado, se volverán locos.
+
+Seguiremos tratando de reemplazar las armas que perdiste cuando fuiste capturado, pero hay alta demanda para todas las ordenanzas pesadas y puede que pasen unas cuantas horas antes de que un lanzamisiles o un lanzallamas esté disponible.
+#PICT 11812
+Sin embargo, el resto de la IA tendrá que esperar: nuestra base ha sido infiltrada por los androides Pfhor. Éstas máquinas están disfrazadas de humanos y llenas de explosivos. 
+
+Además de detonarlos, no tenemos forma de diferenciarlos de nuestra gente. Sus diferencias más obvias son difíciles de ver hasta que es demasiado tarde. 
+
+Necesitamos que regreses y extermines a estos simuladores. Nadie estará seguro hasta que estén todos muertos.
+#LOGOFF 1607
+acropolis.piltdown$C3//004121.25.1$C0
+#INTERLEVEL TELEPORT 19
+#ENDTERMINAL 1
