@@ -31,12 +31,12 @@ La encontraremos en uno de los grandes vacíos entre los brazos de espiral.
 #LOGOFF 1600
 en trance.Final$C3<0-05>$C0
 #INTERLEVEL TELEPORT 256
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
 #LOGON 1613
-
 #PICT 10701
 $C2"Al demonio", gritó Robert - su personalidad superficial de Súper Buen Samaritano, se disolvía en una piscina de odio rojo opaco coronado por una bola de ira candente..  "¡Mi fe en ti finalmente me ha matado!"  Y era cierto, en ese preciso momento su corazón dejó de latir y su cerebro, palpitando de ira y disgusto, tomó el mando.  Vomitó toda la bondad que podía caber en su boca en una erupción cataclísmica de quince segundos, dejando solamente repulsión y desesperación.  A pesar de poseer una estructura poderosa (estando constituido principalmente de carne de caballo y arrabio), sus huesos parecían débiles a comparación de su recién encontrado deseo de matar. Y él mataría, montones de muertos se acumularían bajo sus pies. Y el diría, "...¡fue un caso de defensa propia post-mortem!"
 #PICT 10201
@@ -104,5 +104,5 @@ Paz con la familia encontrada como un individuo. Dependiendo no más en el ambie
 
 Alex.
 #LOGOFF 1613
-
+#END
 #ENDTERMINAL 1

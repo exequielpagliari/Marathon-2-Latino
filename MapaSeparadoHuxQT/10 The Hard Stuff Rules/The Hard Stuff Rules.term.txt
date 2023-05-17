@@ -30,6 +30,7 @@ Se advirtió que la flota de Pfhor que se aproxima ya ha comenzado a reforzar su
 #LOGOFF 1600
 $C5E-over expires$C3<3021.7.30.20.27.49>$C0
 #INTERLEVEL TELEPORT 11
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -56,6 +57,7 @@ Quizás nos construyeron, o fuimos parte de un grupo más grande que vino a Lh'o
 Por desgracia, me temo que nunca sabremos estas cosas.
 #LOGOFF 1601
 $C5Rr2Shr9<995.52.194.63>$C4
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -78,6 +80,7 @@ Nuestro líder me dijo que los Antiguos comenzaron a juntarse hace días. Todos 
 Echo de menos los Pantanos de Mnr y los siete de los nuestros. Estoy seguro de que se han perdido en los incendios.
 #LOGOFF 1601
 $C5Mnr46<41.9.599.293>$C4
+#END
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -96,6 +99,7 @@ Estamos evacuando a los niveles más bajos de la Ciudadela, pero eventualmente n
 He recibido una dosis letal. Me siento como los Hf'ra'rkc'tal después de que su baile de apareamiento termina.
 #LOGOFF 1601
 $C5Kah29<995.52.194.63>$C4
+#END
 #ENDTERMINAL 3
 ;
 #TERMINAL 4
@@ -122,4 +126,5 @@ Sólo un instrumento quirúrgico fue utilizado durante el procedimiento— el di
 
 #LOGOFF 1601
 $C5Mnr 393-fec&1$C4
+#END
 #ENDTERMINAL 4

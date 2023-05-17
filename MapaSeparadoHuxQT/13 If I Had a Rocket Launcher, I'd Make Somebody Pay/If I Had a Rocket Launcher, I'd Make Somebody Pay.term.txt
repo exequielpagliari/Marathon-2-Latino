@@ -14,6 +14,7 @@ Diviértete.
 #LOGOFF 1603
 R4-interrupcion $B032-cm$b
 #INTRALEVEL TELEPORT 25
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -32,6 +33,7 @@ La ruina de $C6Durandal$C2 está escrita por doquier; esta nave condenada lo gri
 $C6Durandal$C2 será muy obstinado para ver la verdad, pero tu todavía podrías.  No hay nada que tú o él puedan hacer para salvarse o a los humanos que han traído aquí.
 #LOGOFF 1605
       $C6<40c$B<40c>$b $C248c<48c>$C0
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -55,4 +57,5 @@ Debes contener a los Pfhor el mayor tiempo posible.
 #LOGOFF 1603
 $C3<redirigiendo>$C0 &49e 94f9c4
 #INTERLEVEL TELEPORT 14
+#END
 #ENDTERMINAL 2

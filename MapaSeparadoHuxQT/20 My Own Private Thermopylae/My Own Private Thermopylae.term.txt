@@ -28,6 +28,7 @@ Buena suerte.
 #LOGOFF 1607
 acropolis.piltdown$C3//004121.25.1$C0
 #INTERLEVEL TELEPORT 21
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -45,4 +46,5 @@ Ten cuidado. El mítico Thoth estaba preocupado por mantener el balance entre la
 Volveré.
 #LOGOFF 1603
 com.reset $C3<2e0xcxx3.41.1>$C0
+#END
 #ENDTERMINAL 1

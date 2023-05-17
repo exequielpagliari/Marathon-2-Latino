@@ -27,6 +27,7 @@ He compilado una lista de las áreas que el Pfhor buscó durante su ocupación r
 #LOGOFF 1600
 $C2ssg//4647.2.52.414.14$C6<extrnt.4>$C0
 #INTERLEVEL TELEPORT 3
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -45,6 +46,7 @@ La guerra interminable estalla sobre nosotros, y sin embargo nosotros, el S'pht'
 Dice que más van a ser destruidos, que estaba destinado a no estar solo.
 #LOGOFF 1601
 $C5@93!  094<392!23@194
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -61,6 +63,7 @@ Los S'bhuth hna entrado en un profundo trance; sabemos que pronto vamos a dejar 
 Hemos enviado emisarios a los otros clanes, pero sólo los S'bhuth sabían cuál era el mensaje.
 #LOGOFF 1601
 $C5DCI3/19F.C3
+#END
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -75,6 +78,7 @@ $C5Hemos dejando atrás algunos F’lickta para que mantengan los conductos limp
 Pedimos que si otro clan viene aquí que ellos respetaran a estas criaturas y dejaran continuar su trabajo y preservar nuestra casa en Lh'owon.
 #LOGOFF 1601
 $C5CI32LC0C.A
+#END
 #ENDTERMINAL 3
 ;
 #TERMINAL 4
@@ -96,6 +100,7 @@ $C5De los nuestros solo sobrevivieron los que estábamos en la cámara central.
 Es probable que no encuentren estas cámaras, pero no podremos sobrevivir en ellas por siempre.
 #LOGOFF 1601
 $C5392.c93@!39&95@7
+#END
 #ENDTERMINAL 4
 ;
 #TERMINAL 5
@@ -122,6 +127,7 @@ Además, no comen. Ellos toman la energía del lodo que los rodea, utilizando un
 Variantes de estas criaturas viven en las regiones volcánicas activas de Lh'owon y ha habido dos avistamientos en las profundidades de la estación geotérmica de la guarnición central. En ningún caso las criaturas eran agresivas como las de aquí.
 #LOGOFF 1602
 $C2lhwefsson$C6.yeihtifna$C2.151
+#END
 #ENDTERMINAL 5
 ;
 #TERMINAL 6
@@ -144,6 +150,7 @@ $BPeligro:$b Los daños a la presa en el Río Menor han causado graves daños al
 La estación 29-s ha sido ordenada evacuar por el mando de la guarnición.  
 #LOGOFF 1602
 $C2lhwefsson$C6.yeihtifna$C2.151
+#END
 #ENDTERMINAL 6
 ;
 #TERMINAL 7
@@ -192,6 +199,7 @@ $C3[escape para abortar]
 #LOGOFF 1602
 $C2Remote Tecibon $C605fc392d$C2
 #INTRALEVEL TELEPORT 222
+#END
 #ENDTERMINAL 7
 ;
 #TERMINAL 8
@@ -223,6 +231,7 @@ $C3[escape para abortar]
 #LOGOFF 1602
 $C2Remoto Tecibon $C60921fc3e
 #INTRALEVEL TELEPORT 260
+#END
 #ENDTERMINAL 8
 ;
 #TERMINAL 9
@@ -254,4 +263,5 @@ $C3[escape para abortar]
 #LOGOFF 1602
 $C2Remoto Tecibon $C640cf3194f $C2
 #INTRALEVEL TELEPORT 338
+#END
 #ENDTERMINAL 9

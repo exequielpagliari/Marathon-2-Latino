@@ -28,6 +28,7 @@ Esperemos que los secretos de este mundo estén escondidos en sus intestinos.
 #LOGOFF 1600
 virtus$C2<30.4969.692.3>$C0
 #INTERLEVEL TELEPORT 12
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -56,6 +57,7 @@ Los once numeros y los once clanes sagrados
 Las últimas palabras del Maestro llegaron a los Mayores: "No confundan su rango y número con superioridad. El hijo más grande podría aprender del más joven.
 #LOGOFF 1601
 $C5antiquus<304.92.38.82>$C0
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -70,6 +72,7 @@ $C5Las noticias sobre la destruccion de S’pht’Hra ha entristecido a todos,pe
 Si algo nos puede salvar de estos agresores, será la unificación de los clanes.
 #LOGOFF 1601
 $C5cnfundido.desdw.5.63.Nma.23.1$C0
+#END
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -86,4 +89,5 @@ Debajo de ti hay dos viejas computadoras S'pht. Encuéntralas para que pueda des
 No puedo teletransportarte desde una terminal tan abajo de la Ciudadela, así que tendrás que encontrar una posición más cercana a la superficie para minimizar la interferencia.
 #LOGOFF 1600
 fatum.celer$C2<793.514.255.255>$C0
+#END
 #ENDTERMINAL 3

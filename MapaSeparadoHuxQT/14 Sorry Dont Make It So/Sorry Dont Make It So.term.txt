@@ -13,6 +13,7 @@ Cuando los Pfhor aniquilaron Tau Ceti registré las muertes de todos los veintic
 Al final, no serás mejor.$C0
 #LOGOFF 1605
 $C2^&!fm$C614.1%94c$C2      af@&!7$C0
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -50,4 +51,5 @@ Los humanos sufrieron fuertes bajas mientras no estabas y nuestras defensas se e
 #LOGOFF 1603
 li5%!_da$C3ta(*li!$ne_in$C0
 #INTERLEVEL TELEPORT 15
+#END
 #ENDTERMINAL 1

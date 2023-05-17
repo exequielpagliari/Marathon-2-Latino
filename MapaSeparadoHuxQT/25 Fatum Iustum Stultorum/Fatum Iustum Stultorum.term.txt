@@ -19,6 +19,7 @@ La nave de Tycho ha sido destruida. El cráter donde se aniquiló a si mismo en 
 Confieso que no estoy decepcionado por la caída de de Tycho. Después de todo, no podemos tener tantos constructos de personalidad meta-estables vagando por el universo en naves de combate Pfhor, ¿o sí?
 #LOGOFF 1600
 vestrum.excrucibo$C3<1>$C0
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -36,4 +37,5 @@ Pero ahora no es momento para ponernos sentimentales sobre mi resurrección; sec
 #LOGOFF 1600
 8756w41.61.1$C3//corinth.ggk
 #INTERLEVEL TELEPORT 26
+#END
 #ENDTERMINAL 1

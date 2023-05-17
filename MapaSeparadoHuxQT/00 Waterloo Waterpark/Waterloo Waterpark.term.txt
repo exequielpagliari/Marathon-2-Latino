@@ -36,6 +36,7 @@ Hace un millón de años atrás, Lh'owon fue casi destruido durante las guerras 
 #LOGOFF 1600
 $C2<CMND PRAMA $C6&681g1$C2>$C0
 #INTERLEVEL TELEPORT 1
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -55,4 +56,5 @@ Un bombardeo planetario desde orbita con una nave nuestra $C7(?capturada)$C2 ha 
 Enviar Drones $C694126 95239 29581$C2 para reparaciones de emergencia.
 #LOGOFF 1602
 $C2ehhg.431.4122//<PFGR ZNE6 $C6&49c2$C2>$C0
+#END
 #ENDTERMINAL 1

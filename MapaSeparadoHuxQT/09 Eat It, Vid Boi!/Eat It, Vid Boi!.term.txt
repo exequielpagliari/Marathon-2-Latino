@@ -34,6 +34,7 @@ Todavía Rampante,
 Durandal
 #LOGOFF 1600
 $C5<Pragma Junction ^7921 Engaged>$C0
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -52,7 +53,6 @@ $C0
 #LOGOFF 1601
 $C5<Mnr *@1cz: 9cm2>
 #END
-
 #FINISHED
 #LOGON 1601
 $C5<Mnr *@1cz: 9cm2>$C0
@@ -76,9 +76,18 @@ Ella huyó hasta el extremo más alejado, dejando el pantano sagrado seco de las
 Cuando el agua retrocedió, la arena roja de los muertos se extendió por Lh'owon.
 #LOGOFF 1601
 $C5<Mnr *@1cz: 9cm2>$C0
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+$C5<Trn 36 ap&1cz:: 9cm2>
+#PICT 1601
+$C5Los tramposos no ganan,
+y los ganadores realmente no engañan,
+A menos que estés hablando de política.$C0
+#END
 #FINISHED
 #LOGON 1600
 $C5<Trn 36 ap&1cz:: 9cm2>$C0
@@ -90,14 +99,6 @@ Voy a teletransportarte a los niveles más altos de la Ciudadela. Con suerte, po
 $C5<Trn 36 ap&1cz:: 9cm2>$C0
 #INTERLEVEL TELEPORT 10
 #END
-
-#UNFINISHED
-#LOGON 1600
-$C5<Trn 36 ap&1cz:: 9cm2>
-#PICT 1601
-$C5Los tramposos no ganan,
-y los ganadores realmente no engañan,
-A menos que estés hablando de política.$C0
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -118,7 +119,6 @@ El Séptimo Grupo de Batalla representa más del diez por ciento de la fuerza na
 #LOGOFF 1600
 $C5<Pragma Junction ^7921 Engaged>$C0
 #END
-
 #FINISHED
 #LOGON 1600
 $C5<Pragma Junction ^7921 Engaged>$C0
@@ -136,4 +136,5 @@ Deja de tontear. ¿No te dije que una porción significativa de la marina galác
 $B¡VUELVE A LA TORRE!$b
 #LOGOFF 1600
 $C5<Pragma Junction ^7921 Engaged>$C0
+#END
 #ENDTERMINAL 3

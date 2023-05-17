@@ -12,4 +12,5 @@ Ojalá le hubiera hecho experimentar la humillación que me infligió, pero muri
 #LOGOFF 1600
 $C2T-m 459-c94$C0
 #INTERLEVEL TELEPORT 8
+#END
 #ENDTERMINAL 0

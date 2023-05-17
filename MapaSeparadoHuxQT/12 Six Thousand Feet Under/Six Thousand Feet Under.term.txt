@@ -15,6 +15,7 @@ Mira por todos lados. La respuesta a nuestras preguntas debe estar aquí, pero d
 Te necesitaré conmigo pronto.
 #LOGOFF 1603
 $C5EPAL4mm//toneskfa31’loa’kr$C0
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -30,6 +31,7 @@ Hoy he forzado a la Academia Naval Pfhor a actualizar su curriculum. La Tercera 
 #LOGOFF 1603
 tyche’kr0625.14.1
 #INTERLEVEL TELEPORT 13
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -46,6 +48,7 @@ Era de noche, creo; a pesar de que con todos los incendios y sin descanso, ha si
 $C7[?]$C5 cree que los invasores son esclavistas; S’pht’Lhar fue tomado en la última rotación y decenas de miles fueron tomados prisioneros.
 #LOGOFF 1601
 $C5Yr-c<39.59fc.93.9>$C4
+#END
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
@@ -60,6 +63,7 @@ Nosotros, los Mayores de los S'pht, unidos pero finalmente condenados, hemos lib
 Dejen entrar a esos extranjeros aquí y serán destruidos.
 #LOGOFF 1601
 $C5Lhar-d<39.29c.62.2>$C4
+#END
 #ENDTERMINAL 3
 ;
 #TERMINAL 4
@@ -93,6 +97,7 @@ Cuando todos somos uno,
 Los S’pht’Kr regresarán.
 #LOGOFF 1601
 $C5Mnr-e<29.94.91d.39>$C4
+#END
 #ENDTERMINAL 4
 ;
 #TERMINAL 5
@@ -117,4 +122,5 @@ Y habló, aún cubierto en sangre por su esfuerzo,
 "Yo Yrro, quien fui su maestro, he fallado en preservarlos. Tomen a su realeza para que los guie y vivan en el paraíso que construyeron para mí."
 #LOGOFF 1601
 $C5ax1-40^23<094.95.28.85>$C4
+#END
 #ENDTERMINAL 5

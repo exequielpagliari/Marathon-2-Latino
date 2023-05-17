@@ -34,4 +34,5 @@ Estás invitado a venir con nosotros cuando lo hagamos.
 #LOGOFF 1607
 acropolis.piltdown$C3//004121.25.1$C0
 #INTERLEVEL TELEPORT 20
+#END
 #ENDTERMINAL 0

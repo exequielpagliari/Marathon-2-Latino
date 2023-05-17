@@ -18,6 +18,7 @@ polygon_index,$C3 polygTycho est infiltrad3on_index));nS_TRANSPARENT(line))
 {polyg$C0on= get_polygon_data(*polygon_ind$C3ex);
 #LOGOFF 1603
 $C3$BYt-$Ic4$b69d02l$i;12
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -38,4 +39,5 @@ Mientras lees esto, el núcleo y el flujo de datos de $C6Durandal$C2 están sien
 De ahora en adelante, las cosas irán muy mal para ti. Les has costado demasiado.
 #LOGOFF 1605
 $C2Ctrl 49c-1fc0$C6319ff/$C2/$Bdelphi$b
+#END
 #ENDTERMINAL 1

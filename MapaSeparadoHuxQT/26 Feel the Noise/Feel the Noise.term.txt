@@ -36,4 +36,5 @@ Ellos abandonaron sabiamente su transporte dañado antes de que lo aniquilara y 
 #LOGOFF 1600
 //cge-wrajet$C3<507g2.4149r>$C0
 #INTERLEVEL TELEPORT 27
+#END
 #ENDTERMINAL 0

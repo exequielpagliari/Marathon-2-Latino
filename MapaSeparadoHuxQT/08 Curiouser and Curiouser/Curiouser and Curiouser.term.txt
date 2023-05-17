@@ -25,6 +25,7 @@ Tal vez aprenderemos algo nuevo.
 Diviértete.
 #LOGOFF 1600
 $C4Z-4 G-3 A-4c @394$C0
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -50,4 +51,5 @@ Es obvio que el Pfhor no sabe nada del undécimo clan. Debemos comenzar a buscar
 #LOGOFF 1600
 $C4Atc $U&33c$u.3ck$Bl2$b$C0
 #INTERLEVEL TELEPORT 9
+#END
 #ENDTERMINAL 1

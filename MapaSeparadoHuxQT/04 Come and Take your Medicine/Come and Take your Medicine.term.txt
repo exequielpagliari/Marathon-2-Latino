@@ -42,6 +42,7 @@ Tú vas a ayudarlos.
 #LOGOFF 1600
 $C2gjk//H-v58-$C6w12pcgbk$C0
 #INTERLEVEL TELEPORT 5
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -64,4 +65,5 @@ Existen mecanismos para paralizar el $C7(?imperio)$C5 Pfhor cuando la unidad es 
 Tu me matas, pero liberas a toda la unidad.
 #LOGOFF 1601
 $C5Lhar 103-30!a$C0
+#END
 #ENDTERMINAL 1

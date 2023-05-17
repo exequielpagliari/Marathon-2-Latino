@@ -46,6 +46,7 @@ gritará sobre el vacío una vez más.$b$C0
 #LOGOFF 1608
 $C1)_*(GG$Bdesbalance$b~0*fxf`~F$C0
 #INTERLEVEL TELEPORT 23
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -60,4 +61,5 @@ $BMUNDO NATAL EN VENTA, BARATO!!!$b  Conversión personalizada desierto-pantano 
 $B’85 TOYOTA $C3COROLLA$C0$b, nave de asalto CFN, anteriormente repartidora de pizzas, techo lunar, frenado/manejo poderoso, montones de óxido, hoyo en el mofle, no arranca, transmisión autodeslizante, ventana del conductor rota, parachoques desprendible, acabado interior desprendible, interesados llamen a greg`
 #LOGOFF 1603
 PLANETA NATAL ABANDONADO EN VENTA, BARATO!!!
+#END
 #ENDTERMINAL 1

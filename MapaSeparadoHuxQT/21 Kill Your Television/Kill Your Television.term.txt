@@ -44,6 +44,7 @@ tomamihalientoymearroja$C3alsueloellasev%!$C0
 $BCONECCIÓN TERMINADA$b $C3<ID#0401>$C0
 #LOGOFF 1607
 gv0-i6tc$Ik[24 2h26u njk$i==$Btp12t1$b
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -93,4 +94,5 @@ mientras busco $b[?percepcion]$B de este
 #LOGOFF 1608
 $C1mi41$Bnor$b 7*(^tfg$C0
 #INTERLEVEL TELEPORT 22
+#END
 #ENDTERMINAL 1

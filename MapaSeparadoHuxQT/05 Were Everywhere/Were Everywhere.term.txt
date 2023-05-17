@@ -36,6 +36,7 @@ Su único error, vestir a cada uno de los seis mil simulacros con el mono verde 
 #LOGOFF 1600
 $C2Contacto 45-f$C6<yb.34.81.qx>$C0
 #INTERLEVEL TELEPORT 6
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -60,4 +61,5 @@ la oportunidad rompe y une$b
                                                     n %
 #LOGOFF 1608
 $C1*&#4xcepción $Bfall$bW$% 434$C0
+#END
 #ENDTERMINAL 1

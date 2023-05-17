@@ -40,6 +40,7 @@ Cuando comience la inevitable lucha entre la Tierra y el Pfhor, no será una ani
 #LOGOFF 1600
 $C212-a Phce$C6<194-973-2356>$C0
 #INTERLEVEL TELEPORT 2
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -58,4 +59,5 @@ $C7$BZeus Class Fusion Pistol$b Rn%#225-511a
 #LOGOFF 1600
 $C2djm2//12-c Phce$C6<192-971-2351>$C0
 #INTERLEVEL TELEPORT 2
+#END
 #ENDTERMINAL 1

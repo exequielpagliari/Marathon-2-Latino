@@ -27,6 +27,7 @@ He probado que escapar es imposible.
 Todo esto arrancado de la mente arruinada de $C6Durandal$C2.  Qué divertido será torturarlo.  ¿Debería hacerlo abrir puertas de por vida otra vez?
 #LOGOFF 1605
 $C2traxIV<40c$B<40c>$b $C648c<48c>$C0
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -82,4 +83,5 @@ $C3EGETMAINCRSR7F,73C24 Enks he has destro
 #LOGOFF 1603
 <error #441 in transmission>
 #INTERLEVEL TELEPORT 16
+#END
 #ENDTERMINAL 1

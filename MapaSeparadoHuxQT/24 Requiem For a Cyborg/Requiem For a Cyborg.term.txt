@@ -14,6 +14,7 @@ $BDAMISELA EN APUROS.$b  IA de programación humana, capturada y parcialmente de
 #LOGOFF 1603
 CONSTRUCTOS DE PERSONALIDAD EN BUSCA DE CYBORGS
 #INTRALEVEL TELEPORT 92
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -64,4 +65,5 @@ $BDebes ir a ellos.$b$C0
 #LOGOFF 1608
 $C1y del (0)!el imper%&$B(f~F`fx\$$bC0
 #INTERLEVEL TELEPORT 25
+#END
 #ENDTERMINAL 1

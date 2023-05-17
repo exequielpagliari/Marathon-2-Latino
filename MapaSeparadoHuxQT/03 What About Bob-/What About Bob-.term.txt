@@ -40,6 +40,7 @@ Leela fue tan leal y se esforzó tanto; ella se merecía algo mejor.
 #LOGOFF 1600
 $C2<CMND ANULADO $U&$C3@149$C04$u>
 #INTERLEVEL TELEPORT 4
+#END
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -67,6 +68,7 @@ $C2<CMND LÍMITE $U92%$u>$C0
 Tramposo. ¡Deja de hacer trampa y juega de verdad!
 #LOGOFF 1600
 $C2<CMND LÍMITE $U92%$u>$C0
+#END
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -87,7 +89,6 @@ Regresa aquí cuando el área esté segura.
 #LOGOFF 1600
 $C2<CMND ANULADO $U&@85f2$u>
 #END
-
 #FINISHED
 #LOGON 1600
 $C2<CMND ANULADO $U&@85f2$u>
@@ -98,4 +99,5 @@ Yo la llamo $IBoomer$i.
 #LOGOFF 1600
 $C2<CMND ANULADO $U&@85f2$u>
 #INTERLEVEL TELEPORT 4
+#END
 #ENDTERMINAL 2
