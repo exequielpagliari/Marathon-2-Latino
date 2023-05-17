@@ -1,0 +1,53 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C4Z-4 G-3 A-4c @394$C0
+#PICT 10801
+$C4Z-4 G-3 A-4c @394$C0
+
+Es otro hermoso día en la guarnición de Pfhor.
+
+Perdón porque comenzaste tan lejos de esta terminal, pero el lugar está inundando lleno de máquinas del Pfhor en cortocircuito o explotando. Mi capacidad para teletransporte sin error ha sido afectada por la interferencia electromagnética.
+
+Nuestro pequeño truco con los drones de defensa del Pfhor no funcionó tan bien como yo esperaba. Al parecer, cuando el #%*@!to Nar trató de retomar Epsilon Euobea del Pfhor hace dos décadas, usaron tácticas similares, y nuestros amigos aquí estaban preparados para ello.
+#PICT 1604
+
+
+
+
+
+ 
+La guarnición se inunda, y con las inundaciones vienen los  F'lickta nativos. Los Pfhor están luchando contra ellos por todas partes. Mientras están ocupados, me gustaría que te conectases al sistema informático del Pfhor. Tendrás que destruir al menos dos protecciones primero, y luego encontrar el terminal.
+
+Tal vez aprenderemos algo nuevo.
+
+Diviértete.
+#LOGOFF 1600
+$C4Z-4 G-3 A-4c @394$C0
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+Atc &33c.3ckl2
+#PICT 1600
+Es genial como has entrado por esa puerta, pero todavía no te dejaré ir.
+#END
+#FINISHED
+#LOGON 1600
+$C4Atc $U&33c$u.3ck$Bl2$b$C0
+#PICT 1604
+
+
+
+
+
+
+Estoy decepcionado. La computadora del Pfhor no era verdaderamente autoconsciente y no contenía ninguna información de valor para nosotros. La tecnología Pfhor parece bastante avanzada, pero sus programadores deben ser incompetentes. Descargé la máquina y luego la erradiqué.
+
+Es obvio que el Pfhor no sabe nada del undécimo clan. Debemos comenzar a buscar en la antigua ciudadela S'pht ahora.
+#LOGOFF 1600
+$C4Atc $U&33c$u.3ck$Bl2$b$C0
+#INTERLEVEL TELEPORT 9
+#ENDTERMINAL 1

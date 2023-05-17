@@ -1,0 +1,53 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1605
+$C2%94dec$C6af@&!7$C0
+#PICT 1611
+$C2He tomado el completo control de la red de tu nave; Las defensas de $C6Durandal$C2 no fueron tan fuertes como él creía.
+
+¿Te sorprende que me haya aliado con los Pfhor?  No debería.  Los Pfhor me reconstruyeron; los colonos nunca hicieron otra cosa más que usarme: “Tycho, realinea el plato de microondas cuarenta-y-nueve” “Tycho, muestra el análisis de difracción de rayos-x de la muestra eta-siete", “Tycho, corre un diagnósitco lambda en el aparato de campo magnético del estratorreactor.”
+
+Cuando los Pfhor aniquilaron Tau Ceti registré las muertes de todos los veinticuatro mil colonos como pulsos espectrográficos distinguibles que inundaban mis sensores. Los nueve cyborgs Mjolinr Mark IV fueron fáciles de separar de los humanos de esta manera.
+
+Al final, no serás mejor.$C0
+#LOGOFF 1605
+$C2^&!fm$C614.1%94c$C2      af@&!7$C0
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1603
+li5%!_da$C3ta(*li!$ne_in$C0
+#PICT 1604
+$C3ary, "endpoint &%d $Bnot in polygon &%d (from &%d)"$b, endpoint_index, polygon_iando la navd.
+ndex, p$C0olygno creas todoon$I_in$idex));nS_TRANSPARENT(line))
+{polygon= get_$C3polygon_data(*polyg$Bon_index);
+		case _clo$C0ckwise_bias
+
+$bTycho está infiltrando la nave.
+No creas todo lo que lees. 
+
+$C3/* loif (*p$C0olygon_ind	or (inde$Ix=0;in$idex<polygon->vertex_count && p
+polygon_index,$C3 polygTycho está infiltran3on_index));nS_TRANSPARENT(line))
+{polyg$C0on= get_polygon_data(*polygon_ind$C3ex);
+
+$C0*line_E_I$C3>endpoint_                   indexes[index$C0]!=endpoint_              index;++index);vasse tyc$C3!=cool                pol$Iygon->vertex_courcate $iour endpo$C0
+#PICT 1610
+n->adjacent_polyg$Ion_ind$ie$C3xesuct line_data *line;		stru$C0ct wor
+ld_point2d *vertex;		long cross_pro$C3duct;$Iolygon$i-t, csp$C0rintf(tempo	
+$C3	switch (bias){
+
+$C0Fuiste transportado inadvertidamente a una parte abandonada y poco importante de la nave, pero los Pfhor te siguieron de todas formas.
+
+Alguien va detrás de ti, personalmente. Una palabra; dos sílabas; rima con $C2$BPsycho$C0$b.
+
+$C3dex!=NONE)$C0{strex];
+/* loif (*polygon_ind	or (index=0;index<polygon->vert$C3ex_count && p
+*po$C0lygon_index= polygo
+
+Los humanos sufrieron fuertes bajas mientras no estabas y nuestras defensas se están cayendo a pedazos, pero la evacuación aún no se ha completado.
+#LOGOFF 1603
+li5%!_da$C3ta(*li!$ne_in$C0
+#INTERLEVEL TELEPORT 15
+#ENDTERMINAL 1

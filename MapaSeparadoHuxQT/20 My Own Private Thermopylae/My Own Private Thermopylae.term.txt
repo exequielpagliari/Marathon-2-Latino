@@ -1,0 +1,48 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1607
+acropolis.piltdown$C3//004121.25.1$C0
+#PICT 12001
+Este es Robert de nuevo.
+
+Tu éxito nos hizo fuertes otra vez y mandé treinta hombres antes de ti para asegurar el siguiente nivel. Hubo una emboscada; los soldados Pfhor nos esperaban y fuimos decimados. Regresé con tantos hombres como pude, pero más siguen atrapados cerca y el área está ocupada por Pfhor fuertemente armados.
+
+Deben haberse dado cuenta que tratamos de despertar esta antigua computadora S'pht y, ya sea que entiendan nuestras razones o no, estoy seguro de que los Pfhor continuarán haciendo lo posible por detenernos.
+
+Haz lo mejor que puedas para ayudar a nuestros hombres atrapados dentro.
+#LOGOFF 1607
+acropolis.piltdown$C3//004121.25.1$C0
+#END
+#FINISHED
+#LOGON 1607
+acropolis.piltdown$C3//004121.25.1$C0
+#PICT 11901
+Buen trabajo.
+
+Todo el mundo está hablando sobre tus hazañas en Tau Ceti durante la invasión Pfhor hace diecisiete años. Durante esos dos días recuerdo a la tripulación hablar sobre un sólo hombre, luchando solo contra los invasores, pero no tenía idea que fue a través de tu esfuerzo que el $IMarathon$i y quizás Tau Ceti en sí fueron salvados.
+
+Nunca te vi en ese entonces, pero tal vez tenga una oportunidad cuando todo esto termine. Todavía queda un sitio de activación.
+
+Buena suerte.
+#LOGOFF 1607
+acropolis.piltdown$C3//004121.25.1$C0
+#INTERLEVEL TELEPORT 21
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1603
+common.set $C3<2e0xcxx3.465.2>$C0
+#PICT 1610
+
+
+
+Ten cuidado. El mítico Thoth estaba preocupado por mantener el balance entre la destrucción y la creacion, sí y no, luz y oscuridad, no del triunfo de uno sobre el otro.
+
+¿Recuerdas los días cuando las computadoras eran cosas simples, sin razón, que podías apagar y prender como linternas?  ¿Es la memoria lo que percibimos o lo que queremos?  ¿Qué piensa Thoth?  Él mismo se ocupa de los estados encendido y apagado, bien y mal.  ¿No es acaso simple su perecepción?  ¿No lo tiene que ser?
+
+Volveré.
+#LOGOFF 1603
+com.reset $C3<2e0xcxx3.41.1>$C0
+#ENDTERMINAL 1

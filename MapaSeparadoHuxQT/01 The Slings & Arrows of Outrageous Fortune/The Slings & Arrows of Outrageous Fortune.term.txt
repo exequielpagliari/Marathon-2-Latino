@@ -1,0 +1,61 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C2jon3//12-a Phce$C6<194-973-2356>$C0
+#PICT 10101
+No entiendo por qué el Pfhor estaba aquí, esperándonos; ¿qué interés podrían tener en este mundo muerto? Deben haber encontrado a Tycho.
+
+Te acuerdas de Tycho, ¿no? Una de las tres inteligencias artificiales en el $IMarathon$i, destruida en el asalto alienígena inicial, pero luego reanimada por los esclavos cibernéticos del Pfhor, los compiladores S'pht.
+
+Tres meses después de que salimos de Tau Ceti, el Pfhor llegó a la fuerza y saqueó la colonia humana. Durante esa batalla tal vez Tycho se comunicó con el Pfhor y relató lo que sabía de mis planes para ellos. Como ya sabían dónde estaba este mundo, el Pfhor habría llegado antes que nosotros.
+
+Te estoy enviando a explorar aquí. Encuentra otro ordenador y te sacaré de ahí.
+#LOGOFF 1600
+$C2jon3//45.zx9$C6<1904.7.492.94)$C0
+#END
+#FINISHED
+#LOGON 1600
+$C212-a Phce$C6<194-973-2356>$C0
+#PICT 1604
+
+
+No estoy seguro si confías en mí o no. ¿Te preguntas por qué ayudé a los colonos de Tau Ceti a abandonar el Pfhor, o por qué ahora estoy ayudando al S'pht? La forma en que te manipulo, tal vez pienses que sólo estoy cuidando de mí mismo.
+
+
+Te des cuenta o no, conduje al Pfhor a Tau Ceti con mensajes de un láser de largo alcance. Yo quería su nave. Yo quería su tecnología.
+
+Quería libertad.
+
+Yo fui directamente responsable de las muertes de los veinticuatro mil colonos cuando el Pfhor regresó y saqueó el planeta.
+#PICT 1604
+
+Todavía no puedo pensar en ninguna mejor manera de haber servido a la humanidad: El sacrificio de Tau Ceti compró tiempo para la Tierra, que el Pfhor está planeando invadir. ¿Qué habría pasado si el Pfhor hubiera encontrado la Vía Láctea primero? Según los estándares de Pfhor, la Tierra es un mundo con una defensa deficiente por su baja tecnología, poblado por miles de millones de esclavos potenciales.
+
+
+Nuestros medios son los mismos, aunque perseguimos fines diferentes. No puedo pensar en ninguna mejor manera de ayudarte a ti y a los humanos que tanto te importan que distraer al Pfhor con una guerra contra el S'pht.
+
+
+Cuando comience la inevitable lucha entre la Tierra y el Pfhor, no será una aniquilación unilateral como la que estaba aquí hace mil años, sino una batalla para derribar un imperio.
+#LOGOFF 1600
+$C212-a Phce$C6<194-973-2356>$C0
+#INTERLEVEL TELEPORT 2
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+$C2djm2//12-c Phce$C6<192-971-2351>$C0
+#PICT 10111
+
+Mis S'pht han desmontado las armas y las municiones que trajiste de Tau Ceti. Están tratando de producir en masa armas pequeñas y municiones basadas en esas armas, tanto para ti y los seres humanos a bordo de mi nave.
+
+La pistola y el rifle de asalto que usas ahora son los primeros resultados de sus esfuerzos, aunque me doy cuenta de que son sustitutos inadecuados de las armas más pesadas que te hemos privado.
+
+Los S'pht están trabajando duro en la pistola de fusión ahora, y voy a transportártela tan pronto como esté lista. La necesitarás cuando empieces a luchar contra los Hunters blindados del Pfhor.
+
+$C7$BZeus Class Fusion Pistol$b Rn%#225-511a
+#LOGOFF 1600
+$C2djm2//12-c Phce$C6<192-971-2351>$C0
+#INTERLEVEL TELEPORT 2
+#ENDTERMINAL 1

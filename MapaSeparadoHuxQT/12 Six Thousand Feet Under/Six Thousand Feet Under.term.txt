@@ -1,0 +1,120 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1603
+$C5EPAL4mm//toneskfa31’loa’kr$C0
+#PICT 11101
+$C5EPAL4mm//toneskfa31’loa’kr$C0
+
+La flota Pfhor ha ganado, y Tycho está con ellos. Mi nave está varada. Estoy tratando de hacer un aterrizaje de emergencia en la segunda luna de Lh'owon, Y'loa.
+
+Tu posición actual es muy profunda para que te teletransporte fuera cuando terminemos. Hay una serie de viejas terminales S'pht en esta área y si las encuentras tal vez pueda usarlas para amplificar tu señal de teletransporte. 
+
+Mira por todos lados. La respuesta a nuestras preguntas debe estar aquí, pero debes apresurarte.
+
+Te necesitaré conmigo pronto.
+#LOGOFF 1603
+$C5EPAL4mm//toneskfa31’loa’kr$C0
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1603
+tyche’kr0625.14.1
+#PICT 11211
+Tenemos la respuesta, pero temo que, al igual que los antiguos S'pht, seré destruido antes de poder usarla. Debo traerte de regreso al $IBoomer.$i
+
+Los Pfhor claramente quieren capturar mi nave intacta, y no puedo culparlos por querer hacer ingeniería inversa a todas las mejoras que le hice a la tecnología que les robé. Habría borrado mi tabla de siete tiempos por oír lo que los técnicos de combate en la $IKhfiva$i gritaron cuando se dieron cuenta de que podía enfocar un haz de partículas a casi el doble de su rango máximo.
+
+Hoy he forzado a la Academia Naval Pfhor a actualizar su curriculum. La Tercera Batalla por Beta Tear debe ser sacada de las Siete Grandes Batallas, las cuales todo apsirante a oficial naval Pfhor debe memorizar, y ser reemplazada con La Humillación del Séptimo Grupo de Batalla en Lh'owon.
+#LOGOFF 1603
+tyche’kr0625.14.1
+#INTERLEVEL TELEPORT 13
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1601
+$C5Yr-c<39.59fc.93.9>$C4
+#PICT 10911
+$C4/-/$C7$BTraductor$C4-$C7S'pht$C4-$C7Activo$b$C4/-/
+$C5
+Las naves vinieron hoy de nuevo.
+
+Era de noche, creo; a pesar de que con todos los incendios y sin descanso, ha sido indistinguible del día. Estamos perdiendo, es obvio, pero ninguno de los Mayores se ha aparecido aún. El enemigo no parece estar interesado en negociar, aunque no lo hemos solicitado.
+
+$C7[?]$C5 cree que los invasores son esclavistas; S’pht’Lhar fue tomado en la última rotación y decenas de miles fueron tomados prisioneros.
+#LOGOFF 1601
+$C5Yr-c<39.59fc.93.9>$C4
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1601
+$C5Lhar-d<39.29c.62.2>$C4
+#PICT 10912
+$C4/-/$C7$BTraductor$C4-$C7S'pht$C4-$C7Activo$b$C4/-/
+$C5
+Nosotros, los Mayores de los S'pht, unidos pero finalmente condenados, hemos liberado el S’ct’lac’tr en la ciudadela.
+
+Dejen entrar a esos extranjeros aquí y serán destruidos.
+#LOGOFF 1601
+$C5Lhar-d<39.29c.62.2>$C4
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1601
+$C5Mnr-e<29.94.91d.39>$C4
+#PICT 10911
+$C4/-/$C7$BTraductor$C4-$C7S'pht$C4-$C7Activo$b$C4/-/
+$C5
+La realeza de los clanes han compartido su conocimiento sobre los S’pht’Kr, cada Maestro teniendo una línea de la verdad en secreto y otra línea en común.
+
+Cada clan poseía dos piezas del todo, regalos de los S’pht’Kr antes de partir.
+
+Cada clan poseía dos piezas del todo, regalos de los S’pht’Kr antes de partir.
+
+Quién sea que encuentre este lugar podrá saber el mensaje final de los S’pht’Kr, pero no tenemos tiempo para decifrar su significado.
+#PICT 10912
+$C4/-/$C7$BTraductor$C4-$C7S'pht$C4-$C7Activo$b$C4/-/
+$C5
+K'lia, a quien hemos tomado,
+Entre Y'loa an T'jia
+Todo en una línea,
+Reemplaza K'lia con el pantáno,
+Toma el lugar que será la marca
+Marca el tiempo de nuestro éxodo,
+Cada 459.231 rotaciones.
+Busca el lado de T'jia,
+Un cuarto hacia el sol,
+Alrededor y bajo los pantános,
+Cuando todos somos uno,
+Los S’pht’Kr regresarán.
+#LOGOFF 1601
+$C5Mnr-e<29.94.91d.39>$C4
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1601
+$C5ax1-40^23<094.95.28.85>$C4
+#PICT 10911
+$C4/-/$C7$BTraductor$C4-$C7S'pht$C4-$C7Activo$b$C4/-/
+$C5
+En el tiempo primordial, criaturas fuera del tiempo crearon olas. Estas olas nos crearon a nosotros y a los dempas. Olas fueron las batallas, y las batallas fueron olas.
+
+Habiendo huido todo W’rkncacnter, Yrro y Pthia se establecieron en Lh'owon. Ellos trajeron a los S'pht, sirvientes que comenzaron a dar forma a los desiertos de Lh'owon de pantáno y mar, ríos y bósques Ellos hicieron hermanas para Lh'owon para protejer y mantener el paraíso.
+
+Cuando el W’rkncacnter vino, Pthia fue asesinada, y Yrro enfurecido, voló al W’rkncacnter hasta el sol. El sol los quemó, pero ellos nadaron en su superficie.
+#PICT 10913
+$C4/-/$C7$BTraductor$C4-$C7S'pht$C4-$C7Activo$b$C4/-/
+$C5
+Yrro se convirtió en un maestro enojado, sangrando por su falla, lamentando la pérdida de Pthia. Separó a los S'pht en once clanes y los esparció por Lh'owon.
+
+Y habló, aún cubierto en sangre por su esfuerzo,
+
+"Yo Yrro, quien fui su maestro, he fallado en preservarlos. Tomen a su realeza para que los guie y vivan en el paraíso que construyeron para mí."
+#LOGOFF 1601
+$C5ax1-40^23<094.95.28.85>$C4
+#ENDTERMINAL 5

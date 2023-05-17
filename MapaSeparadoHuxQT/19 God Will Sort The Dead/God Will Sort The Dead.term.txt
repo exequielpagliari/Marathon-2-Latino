@@ -1,0 +1,37 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1607
+acropolis.piltdown$C3//004121.25.1$C0
+#PICT 11812
+Regresa a esta terminal cuando hayas detonado a todos los humandos asimilados que puedas encontrar.
+
+Recuerda, se ven como nosotros, pero sus mentes no funcionan como las nuestras.  A veces se delatan al decir cosas que una persona real no diría.
+
+Ten cuidado con el fuego aliado y buena suerte.
+#LOGOFF 1607
+acropolis.piltdown$C3//004121.25.1$C0
+#END
+#FINISHED
+#LOGON 1607
+acropolis.piltdown$C3//004121.25.1$C0
+#PICT 11901
+Buen trabajo.
+
+Durandal le dio el nombre de "Thoth" al antiguo constructo de personalidad que estamos tratando de activar. Alguien aquí dijo que Thoth era el antiguo dios Egipcio de la sabiduría, con un cuerpo humano pero la cabeza de un ibis.
+
+Hemos revisado toda la información que Durandal nos dejó sobre Thoth, pero no hemos descubierto por ningún lado qué hacer después de que la IA esté operacional.
+
+Creo que Durandal esperaba que Thot contacte al clan perdido.
+#PICT 11902
+Debo decirte que muchos de nosotros vemos la destrucción de Durandal como algo bueno. Incluso si estamos atrapados en un mundo aliénigena en el núcleo galáctico, al menos estamos al mando de nuestros destinos de nuevo.
+
+Francamente, a nadie le gustaba la forma en la que Durandal nos arrojaba despreocupadamente a la batalla, ignorando el riesgo a nuestras vidas.
+
+Créeme, no soy un amante de los Pfhor, pero sin Durandal halando los hilos se ha levantado un gran peso de nuestros hombros. Estamos planeando robar una nave Pfhor para nosotros y regresar a la Tierra.
+
+Estás invitado a venir con nosotros cuando lo hagamos.
+#LOGOFF 1607
+acropolis.piltdown$C3//004121.25.1$C0
+#INTERLEVEL TELEPORT 20
+#ENDTERMINAL 0

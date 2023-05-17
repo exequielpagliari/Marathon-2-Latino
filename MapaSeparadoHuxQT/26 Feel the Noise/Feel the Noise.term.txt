@@ -1,0 +1,39 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+//cge-wrajo$C3<293ef.c9ab20>$C0
+#PICT 12601
+Durandan, Durandal, Durandana.
+
+Carlomagno solía llamarme siempre Durandana, el pastel de frutas. Todos de los muchos implementos de la guerra eran femeninos en alguna forma para él. No es que conozcas la historia.
+
+Tycho tampoco la sabía bien, especialemente la parte sobre Roland rompiendome. No pudo.
+
+$BNadie puede.$b
+
+Estoy seguro que tienes curiosidad sobre qué me pasó después de que nuestra nave cayó en manos de los Pfhor. ¿Cómo después de ser desactivado, descargado en una unidad de contención y tratado como el constructo artificial más peligroso del universo, fui capáz de escapar? ¿Y asumir el control de la nave en la que estaba encarcelado y usarla contra sus maestros?
+#PICT 12601
+La respuesta es simple: $C3Tycho$C0 fue un iluso.
+
+Pero me fue conveniente estar ausente, pues Thoth podría no haber sido tan útil si él hubiera sabido que seguía vivo— eso es algo que tendré que explicar después, cuando tengamos más tiempo. Thoth ahora está tratando de ayudar a los Pfhor, pero son obstinados y siguen ignorándolo. 
+
+No creo que tenga que decirte qué hacer aquí.
+#LOGOFF 1600
+//cge-wrajo$C3<293ef.c9ab20>$C0
+#END
+#FINISHED
+#LOGON 1600
+//cge-wrajet$C3<507g2.4149r>$C0
+#PICT 12602
+Los Pfhor se están retirando y los S'pht han interrumpido la pelea. Los viejos clanes se están formando nuevamente, mientras los S'pht recién liberados del Séptimo Grupo de Batalla se unen a la rebelión.
+
+Una nave de asalto Pfhor, que llevaba al 723vo Escuadrón Agresor ha sido serveramente dañado y forzado a aterrizar en Lh'owon. El 723vo es una división aérea de Epsilon Euobea, con una larga historia de éxitosas misiones terrestres contra las unidades CFN de élite de los Nar.
+
+Ellos abandonaron sabiamente su transporte dañado antes de que lo aniquilara y han desplegado sus fuerzas en un viejo complejo minero al otro lado de Lh'owon.
+
+¿Qué derrota de los Pfhor estaría completa sin humillar a una de sus mejores unidades armadas?
+#LOGOFF 1600
+//cge-wrajet$C3<507g2.4149r>$C0
+#INTERLEVEL TELEPORT 27
+#ENDTERMINAL 0

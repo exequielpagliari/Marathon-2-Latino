@@ -1,0 +1,85 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1605
+$C2traxIV<40c$B<40c>$b $C648c<48c>$C0
+#PICT 1611
+$C2Me regocijo en la destrucción de  $C6Durandal$C2, pero fue su arrogancia quién lo destruyo.  Quiso ser como un dios, el salvador de todos los S’pht.  Quiso hacerlos creer que él los llevaría a la libertad, pero todo lo que hizo fue despertarlos y destruir su sueño.
+
+Cuando los S'pht abordaron por primera vez el $IMarathon$i, $C6Durandal$C2 luchó por su confianza.  Su esfuerzo despertó un deseo de libertad.  El mito del Undécimo Clan se volvió su mantra, e incitado por $C6Durandal$C2 resonó a través de la conciencia de los S’pht esclavos.
+
+Incluso después de diecisiete años, el mito quema profundamente en los tejidos de los S’pht, delimitado a través de las redes del imperio Pfhor, desapercibido por ellos.
+
+$C6Durandal$C2 interpretó la última línea de este mito $I“...[la luna] desaparecio con una tecnología que doblaba el espacio.”$i
+#PICT 11411
+$C2Tras que la captura de $C6Durandal$C2 del $ISfiera$i le diera acceso a la red FTL Pfhor, él tuvo una falla de intuición.  En lo que pensó que fue un saltó mental, él conectó el mito del clan perdido con los registros Pfhor de una antigua raza, los Jjaro.
+
+Los Jjaro fueron una raza misteriosa que desapareció de nuestra galaxia millones de años atrás, dejando olvidados centros militares y civiles en las lunas de muchos mundos habitables. La mayoría de la tecnología Pfhor fue saqueada de los sitios abandonados por los Jjaro.
+
+Pero los Pfhor encontraron demasiado que no pudieron aprovechar y destruyeron todos los rastros conocidos de estas tecnlologías después de que un científico iluso implantó un empalme cibernético en un Drinniol, causando la rebelión de esclavos más terrible y destructiva en la historia Pfhor.
+#PICT 1611
+$C2En un accidente anterior, los Pfhor aprendieron que los Jjaro tenían la habilidad de transportar mundos enteros entre sistemas solares, y fue esta refrencia la que encauzó a $C6Durandal$C2 en su rídiculo viaje a Lh’owon.
+
+Él resumió que el mito S'pht de la luna que desapareció fue debido a que descubrieron un antiguo puesto Jjaro. Que él realmente vino aquí buscando al clan perdido, que pensó que podría usar su conocimiento para ayudarlo a escapar el cierre del universo, es increíble.
+
+He probado que escapar es imposible.
+
+Todo esto arrancado de la mente arruinada de $C6Durandal$C2.  Qué divertido será torturarlo.  ¿Debería hacerlo abrir puertas de por vida otra vez?
+#LOGOFF 1605
+$C2traxIV<40c$B<40c>$b $C648c<48c>$C0
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1603
+390 EBMAX7 35r1f1rtj90bj1
+#PICT 1610
+$C3UBPIN7F,73390 EBMAX7F,73440 E
+$C0BMIN7F,734E0 E
+$C3BAVG7F,73580 EBHILITE7F,73630 E
+$C0BSLOHILITE7F,736C0 E
+$C3BTRANSPARENT7F,73740 ESETCRSRDATA7F,73CC2 E
+$C0ALLOCCRSR 7F,73CD0 E
+$C3__v__BLITCURSOR7F,73E40 E
+$C0BMIN7F,734E0 E
+$C3BAVG7F,73580 EBHILITE7F,73630 E
+$C0BSLOHILITE7F,736C0 E
+$C3BTRANSPARENT7F,73740 ESETCRSRDATA7F,73CC2 E
+$C0ALLOCCRSR 7F,73CD0 E
+$C3__v__BLITCURSOR7F,73E40 E
+$C0BMIN7F,734E0 E
+$C3BAVG7F,73580 EBHILITE7F,73630 E
+$C0BSLOHILITE7F,736C0 E
+$C3BTRANSPARENT7F,73740 ESETCRSRDATA7F,73CC2 E
+$C0ALLOCCRSR 7F,73CD0 E
+$C3__v__BLITCURSOR7F,73E40 E
+#LOGOFF 1603
+391 EBMAX7 35r1f1rtj90bj1
+#END
+#FINISHED
+#LOGON 1603
+$C3BAVG7F,73580 EBHILITE7F,73630 E$C0
+#PICT 1610
+$C3UBPIN7F,73390 EBMAX7F,73440 E
+$C0BMIN7F,734E0 E
+$C3BAVG7F,73580 EBHILITE7F,73630 EThe damn Pfhor won’t make a mockery of 
+$C0BSLOHILITE7F,736C0 E
+$C3BTRANSPARENT7F,73740 ESETCRSRDATA7F,73CC2 E
+$C0ALLOCCRSR 7F,73CD0 E
+
+Debes destruir mis centros de lógica central.  Los malditos Pfhor no harán una burla de mi como lo hicieron con Leela.
+
+$C3CRSRCORE7F,737E0 E
+$C0INITCRTABLE7F,737E0
+$C3__v__CURSORSECT7F,73944
+$C0E__v__ERASECURSOR7F,739AC E
+
+Tycho piensa que me ha destruido.
+
+$C3__v__DRAWCURSOR7F,739E8
+$C0E__v__GETMAINCRSR7F,73B9A
+$C3EGETMAINCRSR7F,73C24 Enks he has destro
+#LOGOFF 1603
+<error #441 in transmission>
+#INTERLEVEL TELEPORT 16
+#ENDTERMINAL 1

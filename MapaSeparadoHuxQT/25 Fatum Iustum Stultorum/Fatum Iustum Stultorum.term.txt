@@ -1,0 +1,39 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+vestrum.excrucibo$C3<0>$C0
+#PICT 12501
+Estoy de vuelta.
+
+He subvertido la nave Pfhor más grande del sistema, la nave de batalla $IKhfiva$i y estoy haciendo que el resto de la flota beba vacío.  Los S’pht’Kr han llegado y están enfurecidos.
+
+La pelea es gloriosa. Una vez más hemos triunfado.
+
+Los Pfhor que quedan deben ser destruidos. Pelearás lado a lado con el Undécimo Clan en las últimas batallas. No reconocerás sus exoesquelétos cibernéticos, pero hay S'pht dentro de esas máquinas.
+
+No los hagas enojar; los S'pht libres son oponentes letales.
+#PICT 12502
+La nave de Tycho ha sido destruida. El cráter donde se aniquiló a si mismo en la luna interior de Lh'owon sigue brillando. No hubieron sobrevivientes. Con un láser enfocado para mensajes, quemé su epitafio en la superficie cercana al sitio del choque, en letras de trescientos metros de alto: $I“Fatum Iustum Stultorum.”$i
+
+Confieso que no estoy decepcionado por la caída de de Tycho. Después de todo, no podemos tener tantos constructos de personalidad meta-estables vagando por el universo en naves de combate Pfhor, ¿o sí?
+#LOGOFF 1600
+vestrum.excrucibo$C3<1>$C0
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+8756w41.61.1$C3//corinth.ggk
+#PICT 12511
+Robert Blake dejó algo para ti hace unos minutos. Él y los otros humanos capturaron una nave de reabasto Pfhor y encontró o forzó a alguien para que la piloteara. Salieron del sistema inmediatamente después de que recibí el mensaje, sin tanto como un "Gracias por salvarnos de convertirnos en plasma en Tau Ceti, Durandal."
+
+De cualquier modo, el mensaje dice: "El muerto camina nuevamente; no podemos esperar. —Blake." Creo que se refiere a mi, pero le dejé ir de cualquier forma.
+
+Las despedidas siempre son difíciles para mí. Sabes que nunca te dejaré ir.
+
+Pero ahora no es momento para ponernos sentimentales sobre mi resurrección; seca esas lágrimas y mete un clip fresco a tu rifle de asalto. Los Pfhor en el planeta aún no han sido derrotados. 
+#LOGOFF 1600
+8756w41.61.1$C3//corinth.ggk
+#INTERLEVEL TELEPORT 26
+#ENDTERMINAL 1

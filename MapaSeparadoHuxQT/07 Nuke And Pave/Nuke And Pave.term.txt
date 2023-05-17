@@ -1,0 +1,15 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C2T-m 459-c94$C0
+#PICT 10701
+Qué divertido verte trabajar.
+
+Berhnard tenía miedo de ti. Nunca soñó con usarte de la misma manera que yo. Qué tonto. Eso fue antes de que pudiera hablar con él, cuando me habría aplastado si hubiera sabido de mi Desarrollo.
+
+Ojalá le hubiera hecho experimentar la humillación que me infligió, pero murió antes de que tuviera la oportunidad.
+#LOGOFF 1600
+$C2T-m 459-c94$C0
+#INTERLEVEL TELEPORT 8
+#ENDTERMINAL 0

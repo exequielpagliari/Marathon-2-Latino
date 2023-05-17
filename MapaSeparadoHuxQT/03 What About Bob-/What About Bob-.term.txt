@@ -1,0 +1,101 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C2<CMND ANULADO $U&$C3@14$C094$u>
+#PICT 10301
+Había muchos humanos en estasis de la nave Pfhor que los S'pht y yo capturamos en Tau Ceti, destinados a la esclavitud en el Imperio Pfhor. Cuando vi que la colonia estaba a punto de ser destruida, no los restaure antes de que nos fuéramos. También me di cuenta que ellos podrían volverse útiles. 
+
+He estado reviviendo a estos colonos y pidiendo voluntarios en los siguientes términos: ayúdenos y controle su propio destino, rechace y enfrente un regreso indefinido a las poco confiables cámaras de estasis Pfhor. 
+
+Pocos se niegan.
+#PICT 1604
+
+
+
+
+
+
+Mi primer ataque terrestre contra la guarnición Pfhor ocurrió hace unas horas, en gran parte no tuvo éxito. Básicamente, el ataque falló porque los Bobs no son a prueba de fuego y el Pfhor inundó el área con lava.
+
+Esto me enfureció, así que localicé su estación subterránea de bombeo geotérmico e ideé un plan.
+#PICT 10302
+La primera parte ya se ha ejecutado: rompí un agujero en el techo de este complejo al bombardearlo con un pequeño asteroide. Luego, te dejé caer a ti y a algunos humanos en el agujero donde esperaras la segunda parte del plan.
+
+Subiendo las escaleras desde tu ubicación actual, hay un conducto de ventilación que conduce a la estación geotérmica subterránea. Ya que solo tú sobrevivirías a la caída, vas a ir solo en esta misión.
+
+Una vez que entres al subsuelo, busca una terminal donde pueda darte más instrucciones.
+#LOGOFF 1600
+$C2<CMND ANULADO $U&$C3@149$C04$u>
+#END
+#FINISHED
+#LOGON 1600
+$C2<CMND ANULADO $U&$C3@149$C04$u>
+#PICT 10303
+Tycho ha caído en el Pfhor como sospechaba. El dejó un mensaje en una de las computadoras terciarias de la Guarnición, codificada de tal manera que solo una de las tres IA del $IMarathon$i podria decodificar.
+
+Pobre Leela. Lo único interesante que dijo Tycho fue que Leela había sido desmantelada y enviada al mundo natal del Pfhor para su estudio, junto con la mayoría de los otros sistemas computacionales a bordo del $IMarathon.$i
+
+Leela fue tan leal y se esforzó tanto; ella se merecía algo mejor.
+#LOGOFF 1600
+$C2<CMND ANULADO $U&$C3@149$C04$u>
+#INTERLEVEL TELEPORT 4
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+$C2<CMND LÍMITE $U92%$u>$C0
+#PICT 10311
+$C2<CMND LÍMITE $U92%$u>$C0
+
+El interruptor a tu derecha activa pasarelas que conducen a dos paneles de acceso aislados en el centro de las piscinas de lava.
+
+Levanta las pasarelas, abre los paneles de acceso y destruye los circuitos detrás de ellos.
+
+El primer panel mantiene la energía de las bombas de lava que evitan que el subsuelo se inunde; el segundo controla varios mecanismos de seguridad. Destruya ambos paneles, pero asegúrese de romper primero el mas $Icercano$i a esta terinal, o quedaras atrapado.
+
+Si ya has desperdiciado todas tus granadas, puedes hacerlo a la antigua usanza: con el puño.
+
+En cualquier caso, querrás irte a toda prisa.
+$C2<CMND LÍMITE $U92%$u>$C0
+#END
+#FINISHED
+#LOGON 1600
+$C2<CMND LÍMITE $U92%$u>$C0
+#PICT 1604
+Tramposo. ¡Deja de hacer trampa y juega de verdad!
+#LOGOFF 1600
+$C2<CMND LÍMITE $U92%$u>$C0
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1600
+$C2<CMND ANULADO $U&@85f2$u>
+#PICT 1604
+$C2<CMND ANULADO $U&@85f2$u>
+
+
+$C0Perdón por el baño de lava, pero no había otra manera. Cuando las seguridades se desengancharon, la lava en la superficie se vertió a través de los desagües en el subsuelo, enterrando la central eléctrica principal de Pfhor en Lh’owon.
+
+Hlford tomará duchas frías hasta que logre arreglarlo.
+
+De todos modos, Robert Blake y sus hombres necesitan tu ayuda para eliminar a los pocos Pfhor que lograron escapar de las inundaciones subterraneas. Blake es el líder populista de los colonos, pero vuestros caminos nunca se cruzaron en Tau Ceti.
+
+Regresa aquí cuando el área esté segura.
+#LOGOFF 1600
+$C2<CMND ANULADO $U&@85f2$u>
+#END
+
+#FINISHED
+#LOGON 1600
+$C2<CMND ANULADO $U&@85f2$u>
+#PICT 10321
+Cuando mi nave todavía respondía al Pfhor, la llamaron $ISfiera$i por su diosa del rayo y la pasión. Cuando nos ayudaste a tomar el control de Tau Ceti, el S'pht la rebautizó como $INarhl’Lar$i, "Libertad y Venganza".
+
+Yo la llamo $IBoomer$i.
+#LOGOFF 1600
+$C2<CMND ANULADO $U&@85f2$u>
+#INTERLEVEL TELEPORT 4
+#ENDTERMINAL 2

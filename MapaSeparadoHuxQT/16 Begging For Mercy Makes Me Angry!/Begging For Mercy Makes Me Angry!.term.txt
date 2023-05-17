@@ -1,0 +1,41 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1603
+$BYt-$Ic4$b69d02l$i;12
+#PICT 1610
+$C3ary, "endpoint &%d $Bnot in polygon &%d (from &%d)"$b, endpoint_index, polygon_iando la naved.
+ndex, p$C0olygno creas todon$I_in$idex));nS_TRANSPARENT(line))
+{polygon= get_$C3polygon_data(*polyg$Bon_index);
+		case _clo$C0ckwise_bias
+
+$bTermina conmigo.  No seré como Leela.
+
+Sal de aquí y encuentra al líder de los humanos, Blake.
+
+$C3/* loif (*p$C0olygon_ind	or (inde$Ix=0;in$idex<polygon->vertex_count && p
+polygon_index,$C3 polygTycho est infiltrad3on_index));nS_TRANSPARENT(line))
+{polyg$C0on= get_polygon_data(*polygon_ind$C3ex);
+#LOGOFF 1603
+$C3$BYt-$Ic4$b69d02l$i;12
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1605
+$C29c-10c0$C6019ce//$Bdelphi$b
+#PICT 1611
+
+
+
+
+
+
+$C2Continuar es una locura; baja tus armas y les daré amnistía a ti ya tus humanos.
+
+Mientras lees esto, el núcleo y el flujo de datos de $C6Durandal$C2 están siendo descargados a una unidad de contención de mi diseño en el Grupo de Batalla. 
+
+De ahora en adelante, las cosas irán muy mal para ti. Les has costado demasiado.
+#LOGOFF 1605
+$C2Ctrl 49c-1fc0$C6319ff/$C2/$Bdelphi$b
+#ENDTERMINAL 1

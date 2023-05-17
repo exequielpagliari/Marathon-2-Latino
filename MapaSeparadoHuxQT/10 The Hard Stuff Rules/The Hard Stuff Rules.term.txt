@@ -1,0 +1,125 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C5D-over expires$C3<3021.7.30.20.27.49>$C0
+#PICT 11001
+Durante las horas finales de la guerra S’pht-Pfhor, los últimos S’pht libres se asentaron en la Citadel de la Antigüedad. Estamos buscando en la Ciudadela para aprender lo más posible acerca de estos S'pht y lo que hicieron durante sus momentos finales.
+
+El Pfhor parece haber sido renuente a atacar la Ciudadela directamente. La radiación persistente en el área incluso después de mil años sugiere que irradiaron la ciudadela y dejaron a los S'pht morir lentamente.
+
+Ese no es su estilo.
+
+Cada uno de los diez clanes estaba representado aquí, y espero que hayan descubierto algo antes de ser invadidos por el Pfhor. Encuentra tantos computadoras S'pht como puedas, para que pueda buscar información útil.
+#LOGOFF 1600
+$C5D-over expires$C3<3021.7.30.20.27.49>$C0
+#END
+#FINISHED
+#LOGON 1600
+$C5E-over expires$C3<3021.7.30.20.27.49>$C0
+#PICT 11002
+El Séptimo Grupo de Batalla llegó antes de lo que esperaba. La flota de Pfhor consta de siete corvettes similares a las mías, cuatro destroyers, un battleship y un carrier de asalto.
+
+Ahora están pasando las órbitas de los planetas exteriores, con dirección hacia Lh'owon.
+
+Parece que el S'pht se retiró en bunkers bajo la ciudadela durante el bombardeo final de Pfhor hace mil años. Vas a buscar estos bunkers.
+
+A menudo durante los últimos minutos de vida, la verdad se revela. Quizás antes de su aniquilación, los S'pht se dio cuenta de algo que nos ayudaría.
+
+Se advirtió que la flota de Pfhor que se aproxima ya ha comenzado a reforzar su guarnición de Lh'owon por el transporte de largo alcance.
+#LOGOFF 1600
+$C5E-over expires$C3<3021.7.30.20.27.49>$C0
+#INTERLEVEL TELEPORT 11
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1601
+$C5Rr2Shr9<995.52.194.63>$C4
+#PICT 10911
+$C4/-/$C7$BS’pht$C4-$C7Traductor$C4-$C7Activado$b$C4/-/
+
+$C5Sólo comprendí el significado de la disección de algunos de los cautivos. Estas criaturas, repugnantes como son, son sensibles, y sus cuerpos no están unidos a ningún mecanismo. Pueden sobrevivir sin su armadura y sus lanzas.
+
+Hasta ahora, la sensibilidad siempre había requerido una simbiosis cibernética-orgánica. Toda nuestra ciencia ha llevado a esta conclusión.
+
+Incluso podemos dar a nuestros animales de compañía sensaciones con implantes cyber-orgánicos. Sin embargo, estos viles conquistadores son sensibles sin ninguna maquinación.
+#PICT 10913
+$C4/-/$C7$BS’pht$C4-$C7Traductor$C4-$C7Activado$b$C4/-/
+
+$C5Esto lleva al debate. Tal vez nuestra propia sensibilidad es inducida por la operación de parto, y que en algún momento, no fuimos más sensibles que un F'lickta.
+
+Si tal suposición fundamental de nuestra clase está equivocada, entonces tal vez los mitos eran verdaderos, y éramos verdaderos sirvientes de Yrro y Pthia.
+
+Quizás nos construyeron, o fuimos parte de un grupo más grande que vino a Lh'owon.
+
+Por desgracia, me temo que nunca sabremos estas cosas.
+#LOGOFF 1601
+$C5Rr2Shr9<995.52.194.63>$C4
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1601
+$C5Mnr46<41.9.599.293>$C4
+#PICT 10912
+$C4/-/$C7$BS’pht$C4-$C7Traductor$C4-$C7Activado$b$C4/-/
+
+$C5Los antiguos predijeron el cierre de las ventanas de la ciudadela, e hicimos su visión verdadera. Entonces los antiguos predijeron nuestra victoria y aplastamos a los bípedos.
+
+Nuevamente estas bestias vienen aquí y luchan contra los antiguos muros de la Ciudadela, contra todos los clanes al unísono. Nuestro monolito nunca caerá.
+
+Nunca tantos de nosotros hemos sido guiados con tanta rapidez y resolución. Respirar aquí es entender la unidad.
+#PICT 10912
+$C4/-/$C7$BS’pht$C4-$C7Traductor$C4-$C7Activado$b$C4/-/$C5
+
+Nuestro líder me dijo que los Antiguos comenzaron a juntarse hace días. Todos podemos sentir los efectos de esto. El aire enfadado de Lh'owon se ha limpiado por fin.
+
+Echo de menos los Pantanos de Mnr y los siete de los nuestros. Estoy seguro de que se han perdido en los incendios.
+#LOGOFF 1601
+$C5Mnr46<41.9.599.293>$C4
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1601
+$C5Kah29<995.52.194.63>$C4
+#PICT 10913
+$C4/-/$C7$BS’pht$C4-$C7Traductor$C4-$C7Activado$b$C4/-/$C5
+
+Las bestias dejaron de atacar, corriendo por sus vainas. Pensábamos que querían rendirse, pero luego el bombardeo de nuevo.
+
+El aire ardía.
+
+Estamos evacuando a los niveles más bajos de la Ciudadela, pero eventualmente nos alcanzó allí también.
+
+He recibido una dosis letal. Me siento como los Hf'ra'rkc'tal después de que su baile de apareamiento termina.
+#LOGOFF 1601
+$C5Kah29<995.52.194.63>$C4
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1601
+$C5Mnr393-fec&1$C4
+#PICT 10912
+$C4/-/$C7$BS’pht$C4-$C7Traductor$C4-$C7Activado$b$C4/-/$C5
+
+$BReportar a Líder$b
+$IProcedimientos Quirúrgicos Cuestionables$i
+
+Y por si no fuera suficiente, los viles bípedos removieron sus órganos sensoriales para así hacer espacio a un pequeño objeto ovalado que instalaron en su cara— ni siquiera lo hicieron como una operación separada.
+
+Supongo que se dieron cuenta de que el objeto los desplazaría de cualquier forma— ¡por qué molestarse!  Sin embargo, lo que me confundió fue cómo lo hicieron.  No era procedimiento estándar. Puedo asegurar eso.
+#PICT 11041
+$C4/-/$C7$BS’pht$C4-$C7Traductor$C4-$C7Activado$b$C4/-/$C5
+
+$BReport to Leader$b
+$IQuestionable Surgical Procedures$i
+
+Sólo un instrumento quirúrgico fue utilizado durante el procedimiento— el dispositivo que sostenía el pequeño objeto ovalado— ellos intentaron hacer una incisión en la cual insertar el objeto con sus nudillos en repetidas ocasiones antes de darse por vencidos e insertar el objeto de cualquier forma.  Y fue insertado a una velocidad bastante alta.  Pero supongo que eso fue para asegurarse del total desplazamiento de los organos sensoriales.
+
+
+#LOGOFF 1601
+$C5Mnr 393-fec&1$C4
+#ENDTERMINAL 4

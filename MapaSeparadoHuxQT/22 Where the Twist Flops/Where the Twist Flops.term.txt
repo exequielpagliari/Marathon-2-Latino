@@ -1,0 +1,63 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1608
+$C1@%(Ufmal3$B%&~FF`fx$b$C0
+#PICT 1609
+
+
+
+
+
+
+
+
+
+
+$C1$BDebes aplastar los esclavistas,
+regresar a tu $b[?gente].$C0
+
+#LOGOFF 1608
+$C1^*`14$Bbalan$b~~$Bce$b$C0
+#END
+#FINISHED
+#LOGON 1608
+$C1`&}\devorado por $Bincandesencia$b$C0
+#PICT 1609
+
+
+$C1$BI entiende.
+
+Tu constructo buscaba a mis
+     creadores,
+
+deseando decirles
+$b(que sus viejos hermanos ahora son)
+$Besclavos;
+
+esperando a ser liberados.
+
+
+Una conexión $b[?ancilla]$B fue dejada;
+esperando la siguiente tranquilidad $b[?paz];$B
+
+y a pesar de ser destruido por los tres,
+gritará sobre el vacío una vez más.$b$C0
+#LOGOFF 1608
+$C1)_*(GG$Bdesbalance$b~0*fxf`~F$C0
+#INTERLEVEL TELEPORT 23
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1603
+PLANETA NATAL ABANDONADO EN VENTA, BARATO!!!
+#PICT 12401
+~fs`f~ona genial. 5vel . estratorreactor bussard, A/C, control de crucero, manejo de poder, esclusas , todo partes. orig. ,  25GW 300 millones de canales AM/FM.  90+ al (todo interestelar).  Mudanza, se debe vender.  $C3Pidiendo $6995.$C0
+
+$BMUNDO NATAL EN VENTA, BARATO!!!$b  Conversión personalizada desierto-pantano en el núcleo galáctico, 12% oxigeno al momento, buen clima, vida nativa amigable (le falta una luna).  Perfecto para remodelar.  Se debe vender, invasión alienigéna imminiente.  $C3$3995 o mejor oferta.$C0
+
+$B’85 TOYOTA $C3COROLLA$C0$b, nave de asalto CFN, anteriormente repartidora de pizzas, techo lunar, frenado/manejo poderoso, montones de óxido, hoyo en el mofle, no arranca, transmisión autodeslizante, ventana del conductor rota, parachoques desprendible, acabado interior desprendible, interesados llamen a greg`
+#LOGOFF 1603
+PLANETA NATAL ABANDONADO EN VENTA, BARATO!!!
+#ENDTERMINAL 1

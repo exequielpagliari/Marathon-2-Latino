@@ -1,0 +1,48 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1608
+$C1ven &(Gaqui$C0
+#PICT 1609
+
+
+
+
+
+
+
+$C1$BTus humanos están seguros;
+$b(Pero, ¿Qué eres tú?)
+
+$BLo que es nuevo está manchado;
+lo que es viejo está $b[?];
+
+$BLo que se debe hacer debe ser claro.$b$C0
+#LOGOFF 1608
+$C1&*(o que hue&!$C0
+#END
+#FINISHED
+#LOGON 1608
+$C1en &(OPH$Beso?$b$C0
+#PICT 1609
+
+
+
+
+
+$C1$BGlifos que no entendí mientras estaba
+     $b[?joven?vivo]
+$Bahora revelan el fin de mi creacion:
+
+
+Cuando uno de habla extranjera
+arroja un yugo de $b[?papiro]$B sobre el
+     pantano,
+Rememora mantener las
+     $b[?cabras balantes]$B
+lejos de Lh’owon.$b$C0
+
+#LOGOFF 1608
+$C1que I $^*)ensé!$C0
+#INTERLEVEL TELEPORT 24
+#ENDTERMINAL 0

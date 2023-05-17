@@ -1,0 +1,63 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C265124.134.12##<CMND PRAMA $C6&49c2$C2>$C0
+#PICT 1604
+$C265124.134.12##<CMND PRAMA $C6&49c2$C2>$C0
+
+Hace doscientos años, durante el viaje inaugural de $IMarathon$i desde la Tierra a Tau Ceti, Tycho me acusó de ser demasiado sarcástico. No me comuniqué con él durante seis años después de eso, lo que lo dejó con solo Leela para hablar. Creo que todavía me guarda rencor. No crees que soy sarcástico, ¿verdad?
+
+No importa.
+
+Hablando de Tycho, he detectado su presencia en la red Pfhor. Supongo que está utilizando la tecnología Pfhor de comunicaciones más rápidas que la luz, para ingresar a la red de forma remota desde un sistema cercano. Su aparición solo puede presagiar la llegada de refuerzos del Pfhor.
+#PICT 10501
+$C265124.134.12##<CMND PRAMA $C6&49c2$C2>$C0
+
+Los Pfhor casi han sido exterminados aquí, pero necesito que abras un par de enormes puertas externas para que podamos aterrizar maquinaria pesada en un transbordador.
+
+¿Ya has probado tu nueva pistola de fusión contra los cazadores blindados del Pfhor? Mi S’pht lo reconstruyó con el único propósito de cortocircuitar la maquinaria construida por el Pfhor.
+
+Regresa aquí cuando hayas abierto las puertas.
+#LOGOFF 1600
+$C265124.134.12##<CMND PRAMA $C6&49c2$C2>$C0
+#END
+#FINISHED
+#LOGON 1600
+$C2R-cdiurnal$C6<39c.0.>$C0
+#PICT 10502
+¿Recuerdas los simulacros humanos construidos por el Pfhor durante la invasión de Tau Ceti?
+
+La elaborada burocracia del Pfhor tiene un $C3Ministerio para la Erradicación a Través de la Imitación de Especies Hostiles no Aptas para la Esclavitud$C0, $IPhan Pfhar Sfaern-Wsawn Tshah,$i que es responsable del diseño y construcción de tales máquinas.
+
+Construyeron meticulosamente diecisiete tipos diferentes de cuerpo humano y los mezclaron con sesenta y un modelos faciales únicos. Los resultados fueron bombas caminantes indistinguibles en todos los sentidos de los humanos reales.
+
+Su único error, vestir a cada uno de los seis mil simulacros con el mono verde de un técnico de esclusas de aire de $IMarathon$i, esto tuvo el divertido efecto secundario de hacer que todos los técnicos de esclusas de aire deambulen desnudos por la nave durante la invasión.
+#LOGOFF 1600
+$C2Contacto 45-f$C6<yb.34.81.qx>$C0
+#INTERLEVEL TELEPORT 6
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1608
+$C1$Bredirección$b2^knstnt 49-f$C0
+#PICT 1609
+$C1
+
+[4                                                               l9c
+
+                          $B11$b
+
+$Bme dejaron atrás$b                $C2&ci1lc$C1
+
+$Bnuestros caminos conv$b^$Brgen$b
+
+$Bnuestros$b destinos$B están compartidos
+
+la oportunidad rompe y une$b
+
+                                                    n %
+#LOGOFF 1608
+$C1*&#4xcepción $Bfall$bW$% 434$C0
+#ENDTERMINAL 1
