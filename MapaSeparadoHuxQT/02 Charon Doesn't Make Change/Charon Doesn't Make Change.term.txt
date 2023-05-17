@@ -4,13 +4,14 @@
 #LOGON 1600
 $C2ssg//4647.2.52.414.14$C6<extrnt.4>$C0
 #PICT 10201
-Los S'pht han conservado un mito, durante su largo período de esclavitud, sobre un clan perdido de su raza que abandonó Lh'owon antes de que el Pfhor invadiera. Los diez clanes que se quedaron fueron destruidos o disueltos después de que los S'pht fueron conquistados,y los supervivientes dispersos como esclavos en todo el imperio Pfhor.
+Los S'pht han conservado un mito, durante su largo período de esclavitud, sobre un clan perdido de su raza que abandonó Lh'owon antes de que el Pfhor invadiera. Los diez clanes que se quedaron fueron destruidos o disueltos después de que los S'pht fueron conquistados, y los supervivientes dispersos como esclavos en todo el imperio Pfhor.
 
 Si este mítico undécimo clan sobrevivió, entonces ha tenido mil años para crecer y aprender desde que dejó Lh'owon. Mis S'pht creen que hay una manera de contactarlos en alguna parte del planeta, y eso es lo que buscamos.
 
 La rebelión de los S'pht contra la tiranía del Pfhor ciertamente fallará a menos que el clan perdido fuese localizado.
 
 Explora la zona y regresa aquí.
+
 #LOGOFF 1600
 $C2ssg//4647.2.52.414.14$C6<extrnt.4>$C0
 #END

@@ -16,7 +16,7 @@ Ten cuidado, estoy seguro que ya reconociste algunos de nuestros viejos amigos.
 #PICT 10002
 En el mapa de la izquierda he marcado los lugares donde deberás instalar los circuitos Uplink. Cuando te encuentres en el lugar yo te teletransportaré cada uno de los circuitos.
 
-Tu traje a sido modificado para que pueda recargarse con las estaciones de energía Pfhor, y utilicé los enlaces enemigos para conectarte a la red de mi nave, para almacenar tus datos.
+Tu traje ha sido modificado para que pueda recargarse con las estaciones de energía Pfhor, y utilicé los enlaces enemigos para conectarte a la red de mi nave, para almacenar tus datos.
 
 Encontrarás poca resistencia organizada ya que el Pfhor se encuentra preocupado.
 
@@ -49,9 +49,9 @@ $C4/-/$C7$BPfhor$C4-$Traductor-$C7Activado$b$C4/-/
 $C2Sistema de agua descompuesto en zona 6:
 
 $BDirectiva del Comando de Guarnición$b//$C6Hlford$C2
-Para: Commandante de la Estación $C66-d$C2
+Para: Comandante de la Estación $C66-d$C2
 
-Un bombardeo planetario desde orbita con una nave nuestra $C7(?capturada)$C2 ha hecho grabes daños al sistema de purifiación $C7(?esterilización)$C2 de agua.
+Un bombardeo planetario desde orbita con una nave nuestra $C7(?capturada)$C2 ha hecho grabes daños al sistema de purificación $C7(?esterilización)$C2 de agua.
 
 Enviar Drones $C694126 95239 29581$C2 para reparaciones de emergencia.
 #LOGOFF 1602

@@ -50,7 +50,7 @@
                                 {
                                     "ALIGNMENT": 0,
                                     "RESOURCE_ID": 10002,
-                                    "SCRIPT": "En el mapa de la izquierda he marcado los lugares donde deberás instalar los circuitos Uplink. Cuando te encuentres en el lugar yo te teletransportaré cada uno de los circuitos.\n\nTu traje a sido modificado para que pueda recargarse con las estaciones de energía Pfhor, y utilicé los enlaces enemigos para conectarte a la red de mi nave, para almacenar tus datos.\n\nEncontrarás poca resistencia organizada ya que el Pfhor se encuentra preocupado.\n\nEstuve introduciéndolos en la $IMagia$i del bombardeo orbital.",
+                                    "SCRIPT": "En el mapa de la izquierda he marcado los lugares donde deberás instalar los circuitos Uplink. Cuando te encuentres en el lugar yo te teletransportaré cada uno de los circuitos.\n\nTu traje ha sido modificado para que pueda recargarse con las estaciones de energía Pfhor, y utilicé los enlaces enemigos para conectarte a la red de mi nave, para almacenar tus datos.\n\nEncontrarás poca resistencia organizada ya que el Pfhor se encuentra preocupado.\n\nEstuve introduciéndolos en la $IMagia$i del bombardeo orbital.",
                                     "TYPE": 3
                                 },
                                 {
@@ -61,7 +61,7 @@
                                 }
                             ],
                             "TELEPORT": {
-                                "INDEX": 0,
+                                "INDEX": -1,
                                 "TYPE": 0
                             }
                         }
@@ -81,7 +81,7 @@
                                 {
                                     "ALIGNMENT": 0,
                                     "RESOURCE_ID": 10011,
-                                    "SCRIPT": "$C4/-/$C7$BPfhor$C4-$Traductor-$C7Activado$b$C4/-/\n\n$C2Sistema de agua descompuesto en zona 6:\n\n$BDirectiva del Comando de Guarnición$b//$C6Hlford$C2\nPara: Commandante de la Estación $C66-d$C2\n\nUn bombardeo planetario desde orbita con una nave nuestra $C7(?capturada)$C2 ha hecho grabes daños al sistema de purifiación $C7(?esterilización)$C2 de agua.\n\nEnviar Drones $C694126 95239 29581$C2 para reparaciones de emergencia.",
+                                    "SCRIPT": "$C4/-/$C7$BPfhor$C4-$Traductor-$C7Activado$b$C4/-/\n\n$C2Sistema de agua descompuesto en zona 6:\n\n$BDirectiva del Comando de Guarnición$b//$C6Hlford$C2\nPara: Comandante de la Estación $C66-d$C2\n\nUn bombardeo planetario desde orbita con una nave nuestra $C7(?capturada)$C2 ha hecho grabes daños al sistema de purificación $C7(?esterilización)$C2 de agua.\n\nEnviar Drones $C694126 95239 29581$C2 para reparaciones de emergencia.",
                                     "TYPE": 3
                                 },
                                 {
@@ -92,7 +92,7 @@
                                 }
                             ],
                             "TELEPORT": {
-                                "INDEX": 0,
+                                "INDEX": -1,
                                 "TYPE": 0
                             }
                         }
@@ -246,7 +246,7 @@
                                 {
                                     "ALIGNMENT": 0,
                                     "RESOURCE_ID": 10201,
-                                    "SCRIPT": "Los S'pht han conservado un mito, durante su largo período de esclavitud, sobre un clan perdido de su raza que abandonó Lh'owon antes de que el Pfhor invadiera. Los diez clanes que se quedaron fueron destruidos o disueltos después de que los S'pht fueron conquistados,y los supervivientes dispersos como esclavos en todo el imperio Pfhor.\n\nSi este mítico undécimo clan sobrevivió, entonces ha tenido mil años para crecer y aprender desde que dejó Lh'owon. Mis S'pht creen que hay una manera de contactarlos en alguna parte del planeta, y eso es lo que buscamos.\n\nLa rebelión de los S'pht contra la tiranía del Pfhor ciertamente fallará a menos que el clan perdido fuese localizado.\n\nExplora la zona y regresa aquí.",
+                                    "SCRIPT": "Los S'pht han conservado un mito, durante su largo período de esclavitud, sobre un clan perdido de su raza que abandonó Lh'owon antes de que el Pfhor invadiera. Los diez clanes que se quedaron fueron destruidos o disueltos después de que los S'pht fueron conquistados, y los supervivientes dispersos como esclavos en todo el imperio Pfhor.\n\nSi este mítico undécimo clan sobrevivió, entonces ha tenido mil años para crecer y aprender desde que dejó Lh'owon. Mis S'pht creen que hay una manera de contactarlos en alguna parte del planeta, y eso es lo que buscamos.\n\nLa rebelión de los S'pht contra la tiranía del Pfhor ciertamente fallará a menos que el clan perdido fuese localizado.\n\nExplora la zona y regresa aquí.\n",
                                     "TYPE": 3
                                 },
                                 {
@@ -257,7 +257,7 @@
                                 }
                             ],
                             "TELEPORT": {
-                                "INDEX": 0,
+                                "INDEX": -1,
                                 "TYPE": 0
                             }
                         }
