@@ -1,6 +1,6 @@
 # Marathon 2 Latino
 
-![This is an image](https://github.com/exequielpagliari/Marathom-2-Latino/blob/master/Arhicvo%20de%20Mapa%20Separado/Resources/PICT/01600.bmp)
+![This is an image](https://github.com/exequielpagliari/Marathom-2-Latino/blob/master/MapaSeparado/Resources/PICT/01600.bmp)
 
 ### =Sobre Marathon 2:Durandal Latino=
 
