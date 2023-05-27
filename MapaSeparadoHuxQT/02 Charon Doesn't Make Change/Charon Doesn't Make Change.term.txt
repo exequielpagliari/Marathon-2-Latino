@@ -174,7 +174,7 @@ $B$C2Reporte del director científico 7$b
 $C6ZONA 29-s$C2 [Guarnición Lh’owon]
 
 
-Este terminal un teletransporte enlazado a otros que instalamos en cuevas que no son fácilmente accesibles. También encontramos algunos túneles adicionales destruyendo barricadas que aparentemente fueron erigidas durante la batalla antigua.
+Este terminal es un teletransporte enlazado a otros que instalamos en cuevas que no son fácilmente accesibles. También encontramos algunos túneles adicionales destruyendo barricadas que aparentemente fueron erigidas durante la batalla antigua.
 #PICT 10271
 
 $C6$"0000 0000 000F F800 001F FF00 0071 FF80"

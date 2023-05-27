@@ -20,9 +20,9 @@ Mi primer ataque terrestre contra la guarnición Pfhor ocurrió hace unas horas,
 
 Esto me enfureció, así que localicé su estación subterránea de bombeo geotérmico e ideé un plan.
 #PICT 10302
-La primera parte ya se ha ejecutado: rompí un agujero en el techo de este complejo al bombardearlo con un pequeño asteroide. Luego, te dejé caer a ti y a algunos humanos en el agujero donde esperaras la segunda parte del plan.
+La primera parte ya se ha ejecutado: hice un agujero en el techo de este complejo al bombardearlo con un pequeño asteroide. Luego, te dejé caer a ti y a algunos humanos en el agujero donde esparas la segunda parte del plan.
 
-Subiendo las escaleras desde tu ubicación actual, hay un conducto de ventilación que conduce a la estación geotérmica subterránea. Ya que solo tú sobrevivirías a la caída, vas a ir solo en esta misión.
+Subiendo las escaleras desde tu ubicación actual, hay un conducto de ventilación que conduce a la estación geotérmica subterránea. Ya que solo tú sobrevivirías a la caída, estarás solo en esta misión.
 
 Una vez que entres al subsuelo, busca una terminal donde pueda darte más instrucciones.
 #LOGOFF 1600
@@ -32,7 +32,7 @@ $C2<CMND ANULADO $U&$C3@149$C04$u>
 #LOGON 1600
 $C2<CMND ANULADO $U&$C3@149$C04$u>
 #PICT 10303
-Tycho ha caído en el Pfhor como sospechaba. El dejó un mensaje en una de las computadoras terciarias de la Guarnición, codificada de tal manera que solo una de las tres IA del $IMarathon$i podria decodificar.
+Tycho ha caído en manos del Pfhor como sospechaba. Él dejó un mensaje en una de las computadoras terciarias de la Guarnición, codificada de tal manera que solo una de las tres IA del $IMarathon$i podría decodificar.
 
 Pobre Leela. Lo único interesante que dijo Tycho fue que Leela había sido desmantelada y enviada al mundo natal del Pfhor para su estudio, junto con la mayoría de los otros sistemas computacionales a bordo del $IMarathon.$i
 
@@ -59,6 +59,8 @@ El primer panel mantiene la energía de las bombas de lava que evitan que el sub
 Si ya has desperdiciado todas tus granadas, puedes hacerlo a la antigua usanza: con el puño.
 
 En cualquier caso, querrás irte a toda prisa.
+
+#LOGOFF 1600
 $C2<CMND LÍMITE $U92%$u>$C0
 #END
 #FINISHED
@@ -83,7 +85,7 @@ $C0Perdón por el baño de lava, pero no había otra manera. Cuando las segurida
 
 Hlford tomará duchas frías hasta que logre arreglarlo.
 
-De todos modos, Robert Blake y sus hombres necesitan tu ayuda para eliminar a los pocos Pfhor que lograron escapar de las inundaciones subterraneas. Blake es el líder populista de los colonos, pero vuestros caminos nunca se cruzaron en Tau Ceti.
+De todos modos, Robert Blake y sus hombres necesitan tu ayuda para eliminar a los pocos Pfhor que lograron escapar de las inundaciones subterráneas. Blake es el líder populista de los colonos, pero vuestros caminos nunca se cruzaron en Tau Ceti.
 
 Regresa aquí cuando el área esté segura.
 #LOGOFF 1600

@@ -1,0 +1,27 @@
+Charon Doesn't Make Change
+	Terminal 0	OK
+	Terminal 1  OK
+	Terminal 2  OK
+	Terminal 3  OK
+	Terminal 4  OK
+	Terminal 5  OK
+	Terminal 6  OK
+	Terminal 7  OK
+	Terminal 8  OK
+	Terminal 9  OK
+
+
+What About Bob-
+	Terminal 0  OK
+	Terminal 1	OK
+	Terminal 2	OK
+
+
+Come and Take your Medicine
+	Terminal 0	OK
+	Terminal 1	OK
+
+
+Were Everywhere
+	Terminal 0
+	Terminal 1

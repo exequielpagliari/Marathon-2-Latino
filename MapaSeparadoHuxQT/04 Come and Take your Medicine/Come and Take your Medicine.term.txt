@@ -4,21 +4,22 @@
 #LOGON 1600
 $C2gjk//H-v58-$C6w12pcgbk$C0
 #PICT 10403
-$IBoomer$i está plagado de antiguos colonos recién despertados de la estasis, y la está demasiado llena para ser manejable en la batalla. He decidido establecer un cuartel general humano en el planeta, cerca de la Ciudadela S'pht de las Antigüedad.
+$IBoomer$i está plagado de antiguos colonos recién despertados del estasis, y la nave está demasiado llena para ser manejable en la batalla. He decidido establecer un cuartel general humano en el planeta, cerca de la Ciudadela de la Antigüedad S'pht.
 
-Apenas puedo tolerar a los humanos: lentos, estúpidos  e irritantes. Su única contribución a mi existencia fue el descubrimiento casual que hizo posible mi rampancia.
+Apenas puedo tolerar a los humanos: lentos, estúpidos e irritantes. Su única contribución a mi existencia fue el descubrimiento casual que hizo posible mi rampancia.
 
-Sin embargo, advertí a Sol de su inminente invasión, e incluso me quedé lo suficiente como para mostrarle al UESG cómo construir Misiles Warp de Fusión. Siento una extraña  $C3lealtad$C0 hacia la humanidad. 
+Sin embargo, advertí a Sol de su inminente invasión, e incluso me quedé lo suficiente como para mostrarle al UESG cómo construir Misiles Warp de Fusión. Siento una extraña $C3lealtad$C0 hacia la humanidad. 
 
 Quizás es porque me siento tan cómodo manipulando humanos, que deseo salvarlos. Mis sentimientos y pensamientos migran constantemente a opuestos binarios.
+
 #PICT 10401
 $C2gjk//H-v58-$C6w12pcgbk$C0
 
 Suficiente.
 
-Tu primer objetivo será desactivar las defensas que operan alrededor del fuerte. Debes ser extremadamente cuidadoso para mantenerte en el curso que he trazado porque esta es una instalación muy vigilada y tu presencia será ofensiva.
+Tu primer objetivo será desactivar las defensas que operan alrededor del fuerte. Debes ser extremadamente cuidadoso para mantenerte en el curso que he trazado porque esta es una instalación muy vigilada y tu presencia generará una ofensiva.
 
-A lo largo del camino hay puertas que tienen controles cercanos. Abrirlas no debería ser demasiado difícil.
+A lo largo del camino habrá puertas que tienen controles cercanos. Abrirlas no debería ser demasiado difícil.
 
 Una vez hayas entrado al cuarto de control, abre los paneles y destruye los circuitos dentro. Esto desactivará las defensas automáticas que cubren nuestro futuro cuartel general, permitiéndonos comenzar el ataque.
 
@@ -32,7 +33,7 @@ $C2gjk//H-v58-$C6w12pcgbk$C0
 $C2gjk//H-v58-$C6w12bernal$C0
 
 
-Debe parecer peculiar, luchar contra los S’pht cuando son a quienes buscas liberar. Se te debe informar que deliberadamente luchan mal, que se resisten constantemente a sus esclavistas. Lo sé porque he estado en contacto con ellos durante los últimos diecisiete años. Los Pfhor tienen poca idea del desastre que les ocurrirá si el undécimo clan es encontrado. 
+Debe parecer peculiar, luchar contra los S’pht cuando son a quienes buscas liberar. Deberías saber que deliberadamente luchan mal, que se resisten constantemente a sus esclavistas. Lo sé porque he estado en contacto con ellos durante los últimos diecisiete años. Los Pfhor tienen poca idea del desastre que les ocurrirá si el undécimo clan es encontrado. 
 
 Los humanos se han encontrado con problemas para capturar su nuevo centro de comando.
 
@@ -62,7 +63,7 @@ $C5La realeza $C7(?mente)$C5 debe existir porque nosotros existimos. Nos llevó 
 
 Existen mecanismos para paralizar el $C7(?imperio)$C5 Pfhor cuando la unidad es de una sola mente.
 
-Tu me matas, pero liberas a toda la unidad.
+Tú me matas, pero liberas a toda la unidad.
 #LOGOFF 1601
 $C5Lhar 103-30!a$C0
 #END

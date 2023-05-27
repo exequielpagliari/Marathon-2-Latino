@@ -61,7 +61,7 @@
                                 }
                             ],
                             "TELEPORT": {
-                                "INDEX": -1,
+                                "INDEX": 0,
                                 "TYPE": 0
                             }
                         }
@@ -92,7 +92,7 @@
                                 }
                             ],
                             "TELEPORT": {
-                                "INDEX": -1,
+                                "INDEX": 0,
                                 "TYPE": 0
                             }
                         }
@@ -257,7 +257,7 @@
                                 }
                             ],
                             "TELEPORT": {
-                                "INDEX": -1,
+                                "INDEX": 0,
                                 "TYPE": 0
                             }
                         }
@@ -481,7 +481,7 @@
                                 {
                                     "ALIGNMENT": 0,
                                     "RESOURCE_ID": 1612,
-                                    "SCRIPT": "$C4/-/$C7$BPfhor$C4-$C7Traductor$C4-$C7Activado$b$C4/-/\n\n$B$C2Reporte del director científico 7$b\n$C6ZONA 29-s$C2 [Guarnición Lh’owon]\n\n\nEste terminal un teletransporte enlazado a otros que instalamos en cuevas que no son fácilmente accesibles. También encontramos algunos túneles adicionales destruyendo barricadas que aparentemente fueron erigidas durante la batalla antigua.",
+                                    "SCRIPT": "$C4/-/$C7$BPfhor$C4-$C7Traductor$C4-$C7Activado$b$C4/-/\n\n$B$C2Reporte del director científico 7$b\n$C6ZONA 29-s$C2 [Guarnición Lh’owon]\n\n\nEste terminal es un teletransporte enlazado a otros que instalamos en cuevas que no son fácilmente accesibles. También encontramos algunos túneles adicionales destruyendo barricadas que aparentemente fueron erigidas durante la batalla antigua.",
                                     "TYPE": 3
                                 },
                                 {
@@ -587,7 +587,7 @@
                                 {
                                     "ALIGNMENT": 0,
                                     "RESOURCE_ID": 10303,
-                                    "SCRIPT": "Tycho ha caído en el Pfhor como sospechaba. El dejó un mensaje en una de las computadoras terciarias de la Guarnición, codificada de tal manera que solo una de las tres IA del $IMarathon$i podria decodificar.\n\nPobre Leela. Lo único interesante que dijo Tycho fue que Leela había sido desmantelada y enviada al mundo natal del Pfhor para su estudio, junto con la mayoría de los otros sistemas computacionales a bordo del $IMarathon.$i\n\nLeela fue tan leal y se esforzó tanto; ella se merecía algo mejor.",
+                                    "SCRIPT": "Tycho ha caído en manos del Pfhor como sospechaba. Él dejó un mensaje en una de las computadoras terciarias de la Guarnición, codificada de tal manera que solo una de las tres IA del $IMarathon$i podría decodificar.\n\nPobre Leela. Lo único interesante que dijo Tycho fue que Leela había sido desmantelada y enviada al mundo natal del Pfhor para su estudio, junto con la mayoría de los otros sistemas computacionales a bordo del $IMarathon.$i\n\nLeela fue tan leal y se esforzó tanto; ella se merecía algo mejor.",
                                     "TYPE": 3
                                 },
                                 {
@@ -625,7 +625,7 @@
                                 {
                                     "ALIGNMENT": 0,
                                     "RESOURCE_ID": 10302,
-                                    "SCRIPT": "La primera parte ya se ha ejecutado: rompí un agujero en el techo de este complejo al bombardearlo con un pequeño asteroide. Luego, te dejé caer a ti y a algunos humanos en el agujero donde esperaras la segunda parte del plan.\n\nSubiendo las escaleras desde tu ubicación actual, hay un conducto de ventilación que conduce a la estación geotérmica subterránea. Ya que solo tú sobrevivirías a la caída, vas a ir solo en esta misión.\n\nUna vez que entres al subsuelo, busca una terminal donde pueda darte más instrucciones.",
+                                    "SCRIPT": "La primera parte ya se ha ejecutado: hice un agujero en el techo de este complejo al bombardearlo con un pequeño asteroide. Luego, te dejé caer a ti y a algunos humanos en el agujero donde esparas la segunda parte del plan.\n\nSubiendo las escaleras desde tu ubicación actual, hay un conducto de ventilación que conduce a la estación geotérmica subterránea. Ya que solo tú sobrevivirías a la caída, estarás solo en esta misión.\n\nUna vez que entres al subsuelo, busca una terminal donde pueda darte más instrucciones.",
                                     "TYPE": 3
                                 },
                                 {
@@ -636,7 +636,7 @@
                                 }
                             ],
                             "TELEPORT": {
-                                "INDEX": 0,
+                                "INDEX": -1,
                                 "TYPE": 0
                             }
                         }
@@ -667,7 +667,7 @@
                                 }
                             ],
                             "TELEPORT": {
-                                "INDEX": 0,
+                                "INDEX": -1,
                                 "TYPE": 0
                             }
                         },
@@ -682,12 +682,18 @@
                                 {
                                     "ALIGNMENT": 0,
                                     "RESOURCE_ID": 10311,
-                                    "SCRIPT": "$C2<CMND LÍMITE $U92%$u>$C0\n\nEl interruptor a tu derecha activa pasarelas que conducen a dos paneles de acceso aislados en el centro de las piscinas de lava.\n\nLevanta las pasarelas, abre los paneles de acceso y destruye los circuitos detrás de ellos.\n\nEl primer panel mantiene la energía de las bombas de lava que evitan que el subsuelo se inunde; el segundo controla varios mecanismos de seguridad. Destruya ambos paneles, pero asegúrese de romper primero el mas $Icercano$i a esta terinal, o quedaras atrapado.\n\nSi ya has desperdiciado todas tus granadas, puedes hacerlo a la antigua usanza: con el puño.\n\nEn cualquier caso, querrás irte a toda prisa.\n$C2<CMND LÍMITE $U92%$u>$C0",
+                                    "SCRIPT": "$C2<CMND LÍMITE $U92%$u>$C0\n\nEl interruptor a tu derecha activa pasarelas que conducen a dos paneles de acceso aislados en el centro de las piscinas de lava.\n\nLevanta las pasarelas, abre los paneles de acceso y destruye los circuitos detrás de ellos.\n\nEl primer panel mantiene la energía de las bombas de lava que evitan que el subsuelo se inunde; el segundo controla varios mecanismos de seguridad. Destruya ambos paneles, pero asegúrese de romper primero el mas $Icercano$i a esta terinal, o quedaras atrapado.\n\nSi ya has desperdiciado todas tus granadas, puedes hacerlo a la antigua usanza: con el puño.\n\nEn cualquier caso, querrás irte a toda prisa.\n",
                                     "TYPE": 3
+                                },
+                                {
+                                    "ALIGNMENT": 0,
+                                    "RESOURCE_ID": 1600,
+                                    "SCRIPT": "$C2<CMND LÍMITE $U92%$u>$C0",
+                                    "TYPE": 5
                                 }
                             ],
                             "TELEPORT": {
-                                "INDEX": 0,
+                                "INDEX": -1,
                                 "TYPE": 0
                             }
                         }
@@ -733,7 +739,7 @@
                                 {
                                     "ALIGNMENT": 0,
                                     "RESOURCE_ID": 1604,
-                                    "SCRIPT": "$C2<CMND ANULADO $U&@85f2$u>\n\n\n$C0Perdón por el baño de lava, pero no había otra manera. Cuando las seguridades se desengancharon, la lava en la superficie se vertió a través de los desagües en el subsuelo, enterrando la central eléctrica principal de Pfhor en Lh’owon.\n\nHlford tomará duchas frías hasta que logre arreglarlo.\n\nDe todos modos, Robert Blake y sus hombres necesitan tu ayuda para eliminar a los pocos Pfhor que lograron escapar de las inundaciones subterraneas. Blake es el líder populista de los colonos, pero vuestros caminos nunca se cruzaron en Tau Ceti.\n\nRegresa aquí cuando el área esté segura.",
+                                    "SCRIPT": "$C2<CMND ANULADO $U&@85f2$u>\n\n\n$C0Perdón por el baño de lava, pero no había otra manera. Cuando las seguridades se desengancharon, la lava en la superficie se vertió a través de los desagües en el subsuelo, enterrando la central eléctrica principal de Pfhor en Lh’owon.\n\nHlford tomará duchas frías hasta que logre arreglarlo.\n\nDe todos modos, Robert Blake y sus hombres necesitan tu ayuda para eliminar a los pocos Pfhor que lograron escapar de las inundaciones subterráneas. Blake es el líder populista de los colonos, pero vuestros caminos nunca se cruzaron en Tau Ceti.\n\nRegresa aquí cuando el área esté segura.",
                                     "TYPE": 3
                                 },
                                 {
@@ -744,7 +750,7 @@
                                 }
                             ],
                             "TELEPORT": {
-                                "INDEX": 0,
+                                "INDEX": -1,
                                 "TYPE": 0
                             }
                         }
@@ -771,7 +777,7 @@
                                 {
                                     "ALIGNMENT": 0,
                                     "RESOURCE_ID": 10402,
-                                    "SCRIPT": "$C2gjk//H-v58-$C6w12bernal$C0\n\n\nDebe parecer peculiar, luchar contra los S’pht cuando son a quienes buscas liberar. Se te debe informar que deliberadamente luchan mal, que se resisten constantemente a sus esclavistas. Lo sé porque he estado en contacto con ellos durante los últimos diecisiete años. Los Pfhor tienen poca idea del desastre que les ocurrirá si el undécimo clan es encontrado. \n\nLos humanos se han encontrado con problemas para capturar su nuevo centro de comando.\n\n$B¿Sorprendido?$b\n\nTú vas a ayudarlos.",
+                                    "SCRIPT": "$C2gjk//H-v58-$C6w12bernal$C0\n\n\nDebe parecer peculiar, luchar contra los S’pht cuando son a quienes buscas liberar. Deberías saber que deliberadamente luchan mal, que se resisten constantemente a sus esclavistas. Lo sé porque he estado en contacto con ellos durante los últimos diecisiete años. Los Pfhor tienen poca idea del desastre que les ocurrirá si el undécimo clan es encontrado. \n\nLos humanos se han encontrado con problemas para capturar su nuevo centro de comando.\n\n$B¿Sorprendido?$b\n\nTú vas a ayudarlos.",
                                     "TYPE": 3
                                 },
                                 {
@@ -797,13 +803,13 @@
                                 {
                                     "ALIGNMENT": 0,
                                     "RESOURCE_ID": 10403,
-                                    "SCRIPT": "$IBoomer$i está plagado de antiguos colonos recién despertados de la estasis, y la está demasiado llena para ser manejable en la batalla. He decidido establecer un cuartel general humano en el planeta, cerca de la Ciudadela S'pht de las Antigüedad.\n\nApenas puedo tolerar a los humanos: lentos, estúpidos  e irritantes. Su única contribución a mi existencia fue el descubrimiento casual que hizo posible mi rampancia.\n\nSin embargo, advertí a Sol de su inminente invasión, e incluso me quedé lo suficiente como para mostrarle al UESG cómo construir Misiles Warp de Fusión. Siento una extraña  $C3lealtad$C0 hacia la humanidad. \n\nQuizás es porque me siento tan cómodo manipulando humanos, que deseo salvarlos. Mis sentimientos y pensamientos migran constantemente a opuestos binarios.",
+                                    "SCRIPT": "$IBoomer$i está plagado de antiguos colonos recién despertados del estasis, y la nave está demasiado llena para ser manejable en la batalla. He decidido establecer un cuartel general humano en el planeta, cerca de la Ciudadela de la Antigüedad S'pht.\n\nApenas puedo tolerar a los humanos: lentos, estúpidos e irritantes. Su única contribución a mi existencia fue el descubrimiento casual que hizo posible mi rampancia.\n\nSin embargo, advertí a Sol de su inminente invasión, e incluso me quedé lo suficiente como para mostrarle al UESG cómo construir Misiles Warp de Fusión. Siento una extraña $C3lealtad$C0 hacia la humanidad. \n\nQuizás es porque me siento tan cómodo manipulando humanos, que deseo salvarlos. Mis sentimientos y pensamientos migran constantemente a opuestos binarios.\n",
                                     "TYPE": 3
                                 },
                                 {
                                     "ALIGNMENT": 0,
                                     "RESOURCE_ID": 10401,
-                                    "SCRIPT": "$C2gjk//H-v58-$C6w12pcgbk$C0\n\nSuficiente.\n\nTu primer objetivo será desactivar las defensas que operan alrededor del fuerte. Debes ser extremadamente cuidadoso para mantenerte en el curso que he trazado porque esta es una instalación muy vigilada y tu presencia será ofensiva.\n\nA lo largo del camino hay puertas que tienen controles cercanos. Abrirlas no debería ser demasiado difícil.\n\nUna vez hayas entrado al cuarto de control, abre los paneles y destruye los circuitos dentro. Esto desactivará las defensas automáticas que cubren nuestro futuro cuartel general, permitiéndonos comenzar el ataque.\n",
+                                    "SCRIPT": "$C2gjk//H-v58-$C6w12pcgbk$C0\n\nSuficiente.\n\nTu primer objetivo será desactivar las defensas que operan alrededor del fuerte. Debes ser extremadamente cuidadoso para mantenerte en el curso que he trazado porque esta es una instalación muy vigilada y tu presencia generará una ofensiva.\n\nA lo largo del camino habrá puertas que tienen controles cercanos. Abrirlas no debería ser demasiado difícil.\n\nUna vez hayas entrado al cuarto de control, abre los paneles y destruye los circuitos dentro. Esto desactivará las defensas automáticas que cubren nuestro futuro cuartel general, permitiéndonos comenzar el ataque.\n",
                                     "TYPE": 3
                                 },
                                 {
@@ -814,7 +820,7 @@
                                 }
                             ],
                             "TELEPORT": {
-                                "INDEX": 0,
+                                "INDEX": -1,
                                 "TYPE": 0
                             }
                         }
@@ -840,7 +846,7 @@
                                 {
                                     "ALIGNMENT": 0,
                                     "RESOURCE_ID": 10912,
-                                    "SCRIPT": "$C4/-/$C7$BTraductor$C4-$C7S’pht$C4-$C7Activado$b$C4/-/\n\n$C5La realeza $C7(?mente)$C5 debe existir porque nosotros existimos. Nos llevó mucho tiempo darnos cuenta de esto.\n\nExisten mecanismos para paralizar el $C7(?imperio)$C5 Pfhor cuando la unidad es de una sola mente.\n\nTu me matas, pero liberas a toda la unidad.",
+                                    "SCRIPT": "$C4/-/$C7$BTraductor$C4-$C7S’pht$C4-$C7Activado$b$C4/-/\n\n$C5La realeza $C7(?mente)$C5 debe existir porque nosotros existimos. Nos llevó mucho tiempo darnos cuenta de esto.\n\nExisten mecanismos para paralizar el $C7(?imperio)$C5 Pfhor cuando la unidad es de una sola mente.\n\nTú me matas, pero liberas a toda la unidad.",
                                     "TYPE": 3
                                 },
                                 {
@@ -851,7 +857,7 @@
                                 }
                             ],
                             "TELEPORT": {
-                                "INDEX": 0,
+                                "INDEX": -1,
                                 "TYPE": 0
                             }
                         }
