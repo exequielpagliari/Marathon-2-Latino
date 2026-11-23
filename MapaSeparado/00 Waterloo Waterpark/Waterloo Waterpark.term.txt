@@ -43,7 +43,7 @@ $C2<CMND PRAMA $C6&681g1$C2>$C0
 #LOGON 1602
 $C2ehhg.431.4122//<PFGR ZNE6 $C6&49c2$C2>$C0
 #PICT 10011
-$C4/-/$C7$BPfhor$C4-$Traductor-$C7Activado$b$C4/-/
+$C4/-/$C7$BPfhor$C4-Traductor-$C7Activado$b$C4/-/
 
 $C2Sistema de agua descompuesto en zona 6:
 

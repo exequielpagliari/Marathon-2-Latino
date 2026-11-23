@@ -18,7 +18,7 @@ virtus$C2<30.4969.692.3>$C0
 #LOGON 1600
 virtus.incertus$C2<77.7777.777.7>$C0
 #PICT 11101
-La batalla ha comenzado en la órbita y $IBoomer$ está recibiendo daños considerables. No puedo aguantar por mucho, pero el Pfhor no olvidará pronto el día en que una corveta solitaria pulverizó la mitad del Séptimo Grupo de Batalla, del Brazo Oeste.
+La batalla ha comenzado en la órbita y $IBoomer$i está recibiendo daños considerables. No puedo aguantar por mucho, pero el Pfhor no olvidará pronto el día en que una corveta solitaria pulverizó la mitad del Séptimo Grupo de Batalla, del Brazo Oeste.
 
 Nos estamos acercando y hemos aprendido mucho, pero debes buscar más profundo bajo la tierra.
 
