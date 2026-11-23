@@ -1,0 +1,46 @@
+
+name: Validate Marathon Terminals
+
+on:
+  push:
+    paths:
+      - 'MapaSeparado/**'
+      - 'MapaUnido/**'
+      - 'tools/**'
+      - '.github/workflows/validate-terminals.yml'
+
+  pull_request:
+    paths:
+      - 'MapaSeparado/**'
+      - 'MapaUnido/**'
+      - 'tools/**'
+      - '.github/workflows/validate-terminals.yml'
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-terminals-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Validate terminal files
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Check validator syntax
+        run: python -m py_compile tools/validate_terminals.py
+
+      - name: Validate terminal files
+        run: python tools/validate_terminals.py
